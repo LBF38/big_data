@@ -17,7 +17,7 @@ public class Q0 {
         // FileSystem fs = FileSystem.get(URI.create("hdfs://localhost:9000"),conf);
         // Local FS
         LocalFileSystem fs = FileSystem.getLocal(conf);
-        Path path = new Path("C:\\tmp\\studios_2023-03-22.csv");
+        Path path = new Path(Assets.PRODUCTION.path);
         int lineNum = 0;
         FSDataInputStream inStream = fs.open(path);
         try {

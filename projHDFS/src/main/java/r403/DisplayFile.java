@@ -17,7 +17,7 @@ public class DisplayFile {
         // FileSystem fs = FileSystem.get(URI.create("hdfs://localhost:9000"),conf);
         // Local FS
         LocalFileSystem fs = FileSystem.getLocal(conf);
-        Path fullname = new Path("C:\\tmp\\production.csv"); // change the path to your file
+        Path fullname = new Path(Assets.PRODUCTION.path); // change the path to your file
         FSDataInputStream inStream = fs.open(fullname);
         try {
             InputStreamReader isr = new InputStreamReader(inStream);
