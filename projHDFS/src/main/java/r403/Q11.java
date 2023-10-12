@@ -3,6 +3,8 @@ package r403;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.HashMap;
+import java.util.Map;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FSDataInputStream;
@@ -23,32 +25,39 @@ public class Q11 {
         FSDataInputStream inStreamMovie = fs.open(pathMovie);
         FSDataInputStream inStreamProd = fs.open(pathProd);
         try {
-            // Movie lines
-            InputStreamReader isrMovie = new InputStreamReader(inStreamMovie);
-            BufferedReader brMovie = new BufferedReader(isrMovie);
-            String lineMovie = brMovie.readLine();
             // Production lines
             InputStreamReader isrProd = new InputStreamReader(inStreamProd);
             BufferedReader brProd = new BufferedReader(isrProd);
             String lineProd = brProd.readLine();
-            // Algorithm
-            while (lineMovie != null || lineProd != null) {
+            // Get the table in a map
+            Map<String, Integer> prodMovie2Studio = new HashMap<String, Integer>();
+            while (lineProd != null) {
                 if (lineNum != 0) {
-                    Movie.fromLine(lineMovie);
                     Production.fromLine(lineProd);
-                    // System.out.println(Movie.getId() + " - " + Production.getIdMovie());
-                    if (Movie.getId().equals(Production.getIdMovie()))
-                        System.out.println("Movie : " + Movie.getTitle() + " - Studio ID: " + Production.getIdStudio());
+                    prodMovie2Studio.put(Production.getIdMovie(), Production.getIdStudio());
                 }
-                lineMovie = brMovie.readLine();
                 lineProd = brProd.readLine();
                 lineNum++;
             }
-        } catch (Exception e) {
-            System.out.println(e);
+            inStreamProd.close();
+            // Movie lines
+            InputStreamReader isrMovie = new InputStreamReader(inStreamMovie);
+            BufferedReader brMovie = new BufferedReader(isrMovie);
+            String lineMovie = brMovie.readLine();
+            // Algorithm
+            while (lineMovie != null) {
+                if (lineNum != 0) {
+                    Movie.fromLine(lineMovie);
+                    if (prodMovie2Studio.containsKey(Movie.getId())) {
+                        System.out.println(
+                                "Movie: " + Movie.getTitle() + " - StudioID: " + prodMovie2Studio.get(Movie.getId()));
+                    }
+                }
+                lineMovie = brMovie.readLine();
+                lineNum++;
+            }
         } finally {
             inStreamMovie.close();
-            inStreamProd.close();
             fs.close();
         }
     }
