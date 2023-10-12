@@ -1,0 +1,519 @@
+idimdb;title;release;runtime;budget;revenue;poster;rating
+tt0029583;Snow White and the Seven Dwarfs;1937-12-21;83;1488423;184925486;https://image.tmdb.org/t/p/original/1P9eGGlT7eV7kAAvvSh9jfygr1C.jpg;7.6
+tt0032910;Pinocchio;1940-02-23;88;2600000;84300000;https://image.tmdb.org/t/p/original/ynkEEi296ofs9kCfRWcaWxOWN1n.jpg;7.4
+tt0033563;Dumbo;1941-10-31;64;812000;1600000;https://image.tmdb.org/t/p/original/hKDdllslMtsU9JixAv5HR9biXlp.jpg;7.2
+tt0034492;Bambi;1942-08-14;70;858000;267447150;https://image.tmdb.org/t/p/original/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg;7.3
+tt0042332;Cinderella;1950-02-22;74;2900000;263591415;https://image.tmdb.org/t/p/original/4nssBcQUBadCTBjrAkX46mVEKts.jpg;7.3
+tt0046183;Peter Pan;1953-02-05;77;4000000;87404651;https://image.tmdb.org/t/p/original/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg;7.3
+tt0048280;Lady and the Tramp;1955-06-22;76;4000000;36359037;https://image.tmdb.org/t/p/original/wXKeGea4htM7Yz3yo7hYXbs3FhV.jpg;7.3
+tt0053285;Sleeping Beauty;1959-02-17;75;6000000;51600000;https://image.tmdb.org/t/p/original/j2mTyUukcLwDIeQohyZUVKfqdlB.jpg;7.2
+tt0055254;One Hundred and One Dalmatians;1961-01-25;79;4000000;85000000;https://image.tmdb.org/t/p/original/9klDisS1sVb5LljRhpYJ0TUbPzt.jpg;7.3
+tt0057546;The Sword in the Stone;1963-12-25;79;3000000;22182353;https://image.tmdb.org/t/p/original/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg;7.2
+tt0058331;Mary Poppins;1964-08-27;139;6000000;103082380;https://image.tmdb.org/t/p/original/yO8UyO86uNBq12wroZLg2GpYQp3.jpg;7.8
+tt0061852;The Jungle Book;1967-10-18;78;4000000;205843612;https://image.tmdb.org/t/p/original/7a6VJd4TXNrTlY6MDvZL1kqPVg7.jpg;7.6
+tt0062687;Astérix et Cléopâtre;1968-12-16;72;0;0;https://image.tmdb.org/t/p/original/gNpKAmWFsCiWKKx39Ap8pF7EWQg.jpg;7.2
+tt0065421;The Aristocats;1970-12-24;78;4000000;55675257;https://image.tmdb.org/t/p/original/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg;7.1
+tt0068646;The Godfather;1972-03-14;175;6000000;245066411;https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg;9.2
+tt0070608;Robin Hood;1973-11-08;83;5000000;32056467;https://image.tmdb.org/t/p/original/8aroHZhQOLJrcyCN5qlDDy09VO.jpg;7.6
+tt0071853;Monty Python and the Holy Grail;1975-05-25;91;400000;1940906;https://image.tmdb.org/t/p/original/8AVb7tyxZRsbKJNOTJHQZl7JYWO.jpg;8.2
+tt0072901;Les 12 travaux d'Astérix;1976-06-26;82;0;0;https://image.tmdb.org/t/p/original/7cZQZOYZFJcLjZnxWjO5PcUtmDZ.jpg;7.7
+tt0076618;The Rescuers;1977-06-22;78;1200000;71215869;https://image.tmdb.org/t/p/original/gCJuDViPCEuHVmoZUvhOj1jyqfV.jpg;6.9
+tt0076759;Star Wars;1977-05-25;121;11000000;775398007;https://image.tmdb.org/t/p/original/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg;8.6
+tt0083658;Blade Runner;1982-06-25;118;28000000;41722424;https://image.tmdb.org/t/p/original/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg;8.1
+tt0086190;Return of the Jedi;1983-05-25;135;32350000;572700000;https://image.tmdb.org/t/p/original/mDCBQNhR6R0PVFucJl0O4Hp5klZ.jpg;8.3
+tt0087928;Police Academy;1984-03-22;97;4500000;81198894;https://image.tmdb.org/t/p/original/CZoeavxfCWcoQP5zW6fTxgNKXy.jpg;6.7
+tt0088763;Back to the Future;1985-07-03;116;19000000;381109762;https://image.tmdb.org/t/p/original/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg;8.5
+tt0090633;An American Tail;1986-11-21;80;9000000;84542002;https://image.tmdb.org/t/p/original/wjhUy9af89vc9CviKcPgTNTrmIq.jpg;6.9
+tt0091203;Highlander;1986-03-07;116;16000000;12885193;https://image.tmdb.org/t/p/original/8Z8dptJEypuLoOQro1WugD855YE.jpg;7.1
+tt0095489;The Land Before Time;1988-11-18;69;12500000;84460846;https://image.tmdb.org/t/p/original/wSC2wxFj3ZgrIHlIaePeuHN4igo.jpg;7.4
+tt0095776;Oliver & Company;1988-11-18;77;31000000;74151346;https://image.tmdb.org/t/p/original/15CP0xItV3oIoL5VSb8hM27e9xQ.jpg;6.7
+tt0096283;となりのトトロ;1988-04-16;86;3700000;45000000;https://image.tmdb.org/t/p/original/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg;8.2
+tt0096842;Astérix et le coup du menhir;1989-10-04;81;0;0;https://image.tmdb.org/t/p/original/rcFi9JvJMjwxp4lK66v4KueqglW.jpg;6.4
+tt0096874;Back to the Future Part II;1989-11-22;108;40000000;332000000;https://image.tmdb.org/t/p/original/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg;7.8
+tt0097757;The Little Mermaid;1989-11-17;83;40000000;211343479;https://image.tmdb.org/t/p/original/9nJ9rm6RwYgIggnGVy8Dej4olef.jpg;7.6
+tt0097778;Look Who's Talking;1989-10-12;93;7500000;296999813;https://image.tmdb.org/t/p/original/k60x5YEOox9P9vWITSHFSkLGecN.jpg;5.9
+tt0099472;DuckTales: The Movie - Treasure of the Lost Lamp;1990-08-03;74;0;18115724;https://image.tmdb.org/t/p/original/qGbB0PtHq63FACIbVORvWvUKtbL.jpg;6.9
+tt0101414;Beauty and the Beast;1991-10-22;84;25000000;424967620;https://image.tmdb.org/t/p/original/7oCAPOphDKpIaxTrnukmDrZ8XKD.jpg;8
+tt0103639;Aladdin;1992-11-25;90;28000000;504050219;https://image.tmdb.org/t/p/original/oakAd8syy7jNQ4ZoaAGCQkTqcOV.jpg;8
+tt0103786;Beethoven;1992-04-03;87;0;147214049;https://image.tmdb.org/t/p/original/mVb3r5ZOeopEbCbx6kuIAjUz20F.jpg;5.7
+tt0106965;Free Willy;1993-07-16;112;20000000;153698625;https://image.tmdb.org/t/p/original/9iBgd9gi9ztWiVcYSG6zl8wDFBN.jpg;6
+tt0107048;Groundhog Day;1993-02-11;101;14600000;71074049;https://image.tmdb.org/t/p/original/gCgt1WARPZaXnq523ySQEUKinCs.jpg;8.1
+tt0107290;Jurassic Park;1993-06-11;127;63000000;920100000;https://image.tmdb.org/t/p/original/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg;8.1
+tt0109830;Forrest Gump;1994-07-06;142;55000000;677387716;https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg;8.8
+tt0110357;The Lion King;1994-06-23;89;45000000;763455561;https://image.tmdb.org/t/p/original/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg;8.5
+tt0110475;The Mask;1994-07-29;101;23000000;351583407;https://image.tmdb.org/t/p/original/xbbXp9px4o8Oe7IbGd0yIbla8mZ.jpg;6.9
+tt0111161;The Shawshank Redemption;1994-09-23;142;25000000;28341469;https://image.tmdb.org/t/p/original/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg;9.3
+tt0112431;Babe;1995-07-18;91;30000000;254134910;https://image.tmdb.org/t/p/original/zKuQMtnbVTz9DsOnOJmlW71v4qH.jpg;6.8
+tt0112442;Bad Boys;1995-04-07;119;19000000;141407024;https://image.tmdb.org/t/p/original/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg;6.8
+tt0112642;Casper;1995-05-26;100;50000000;287928194;https://image.tmdb.org/t/p/original/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg;6.1
+tt0113114;Free Willy 2: The Adventure Home;1995-07-19;95;31000000;30000000;https://image.tmdb.org/t/p/original/3wpug3W5rYBdqeAnhc1UeXLE5ZF.jpg;5.1
+tt0113198;A Goofy Movie;1995-04-07;78;18000000;35348597;https://image.tmdb.org/t/p/original/bycmMhO3iIoEDzP768sUjq2RV4T.jpg;6.9
+tt0113442;It Takes Two;1995-11-17;101;0;19474589;https://image.tmdb.org/t/p/original/sdes5TrRbymELYLG85YIxmFb1OP.jpg;5.9
+tt0113497;Jumanji;1995-12-15;104;65000000;262797249;https://image.tmdb.org/t/p/original/6aGn2X51bahFoOI8wE1h2VGTgcH.jpg;7
+tt0114148;Pocahontas;1995-06-14;85;55000000;346079773;https://image.tmdb.org/t/p/original/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg;6.7
+tt0114369;Se7en;1995-09-22;127;33000000;327311859;https://image.tmdb.org/t/p/original/69Sns8WoET6CfaYlIkHbla4l7nC.jpg;8.6
+tt0114709;Toy Story;1995-10-30;81;30000000;373554033;https://image.tmdb.org/t/p/original/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg;8.3
+tt0115433;101 Dalmatians;1996-11-27;103;54000000;320689294;https://image.tmdb.org/t/p/original/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg;5.7
+tt0115491;Aladdin and the King of Thieves;1996-05-20;81;0;0;https://image.tmdb.org/t/p/original/kTH7qEyvdDYMoQraQZm3LFKCge3.jpg;6.4
+tt0116583;The Hunchback of Notre Dame;1996-06-21;91;100000000;325338851;https://image.tmdb.org/t/p/original/r7V92gY3AMO6li17MmGTixAnFcv.jpg;7
+tt0117008;Matilda;1996-08-02;98;36000000;33459416;https://image.tmdb.org/t/p/original/wnLbqoGRGdnPNjMV6rY75wgRamd.jpg;6.9
+tt0117509;Romeo + Juliet;1996-11-01;120;14500000;147298761;https://image.tmdb.org/t/p/original/zWLZEUE0jrTiLhWQVh8NOJRwIU9.jpg;6.7
+tt0117705;Space Jam;1996-11-15;88;80000000;250200000;https://image.tmdb.org/t/p/original/6h3FIr5CQFCBV8Xrv7XZLZbIQR0.jpg;6.5
+tt0118665;Baby Geniuses;1999-03-12;97;12000000;36450736;https://image.tmdb.org/t/p/original/70EpKntF6KrN2X38oVLCL9e8WBQ.jpg;2.7
+tt0118929;Dark City;1998-02-27;100;27000000;27200316;https://image.tmdb.org/t/p/original/AdBe2ow8hdlT2aLBYuUjs0Xkqkw.jpg;7.6
+tt0119099;Fallen;1998-01-16;124;46000000;25232289;https://image.tmdb.org/t/p/original/6PAcOBxEZi9LgJzjhw5Sb14yqO3.jpg;7
+tt0119282;Hercules;1997-06-20;93;85000000;252712101;https://image.tmdb.org/t/p/original/16JPL3c6ET7ibfO35WjjWxCaVmj.jpg;7.3
+tt0120363;Toy Story 2;1999-10-30;92;90000000;497366869;https://image.tmdb.org/t/p/original/xVhEI1WCgNCCa5I86AqiwuZoog3.jpg;7.9
+tt0120623;A Bug's Life;1998-11-25;95;120000000;363258859;https://image.tmdb.org/t/p/original/hFamOus53922agTlKxhcL7ngJ9h.jpg;7.2
+tt0120689;The Green Mile;1999-12-10;189;60000000;286801374;https://image.tmdb.org/t/p/original/velWPhVMQeQKcxggNEU8YmIo52R.jpg;8.6
+tt0120762;Mulan;1998-06-18;88;90000000;304320254;https://image.tmdb.org/t/p/original/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg;7.7
+tt0120783;The Parent Trap;1998-07-28;128;15000000;92108518;https://image.tmdb.org/t/p/original/a3XOGrrAjl1wwiumtACWBufg6AL.jpg;6.6
+tt0120794;The Prince of Egypt;1998-12-16;99;70000000;218613188;https://image.tmdb.org/t/p/original/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg;7.1
+tt0120855;Tarzan;1999-06-18;88;130000000;448191819;https://image.tmdb.org/t/p/original/a0Syo09bmNJgehjfeVL6meR9Mjh.jpg;7.3
+tt0120915;Star Wars: Episode I - The Phantom Menace;1999-05-19;136;115000000;924317558;https://image.tmdb.org/t/p/original/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg;6.5
+tt0120917;The Emperor's New Groove;2000-12-15;78;100000000;169327687;https://image.tmdb.org/t/p/original/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg;7.4
+tt0121765;Star Wars: Episode II - Attack of the Clones;2002-05-15;142;120000000;649398328;https://image.tmdb.org/t/p/original/oZNPzxqM2s5DyVWab09NTQScDQt.jpg;6.5
+tt0121766;Star Wars: Episode III - Revenge of the Sith;2005-05-17;140;113000000;850000000;https://image.tmdb.org/t/p/original/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg;7.5
+tt0126029;Shrek;2001-05-18;90;60000000;487853320;https://image.tmdb.org/t/p/original/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg;7.9
+tt0133240;Treasure Planet;2002-11-26;95;140000000;109578115;https://image.tmdb.org/t/p/original/zMKatZ0c0NCoKzfizaCzVUcbKMf.jpg;7.2
+tt0164912;Stuart Little;1999-12-17;84;133000000;300135367;https://image.tmdb.org/t/p/original/niZSfupE9XR7GmEUq2XdURVH66T.jpg;5.9
+tt0166090;Babar: King of the Elephants;1999-04-28;80;0;0;https://image.tmdb.org/t/p/original/4oa1JozwObjz06Dxunu6E1I5v02.jpg;6.1
+tt0166813;Spirit: Stallion of the Cimarron;2002-05-24;83;80000000;122563539;https://image.tmdb.org/t/p/original/cUgYrz4twiJ3QgVGpRfey984NIB.jpg;7.2
+tt0170016;How the Grinch Stole Christmas;2000-11-17;104;123000000;345141403;https://image.tmdb.org/t/p/original/1WZbbPApEivA421gCOluuzMMKCk.jpg;6.2
+tt0181627;Kirikou et la sorcière;1998-12-09;70;4495000;0;https://image.tmdb.org/t/p/original/9RNrozaagFmpm6m0CP7q4XDcIXj.jpg;7.5
+tt0191400;La revanche des humanoïdes;1983-01-26;100;0;0;https://image.tmdb.org/t/p/original/xHQ0vqFezFCRdN5910odiOWNCoe.jpg;7.1
+tt0198781;Monsters, Inc.;2001-11-01;92;115000000;562816256;https://image.tmdb.org/t/p/original/sgheSKxZkttIe8ONsf2sWXPgip3.jpg;8.1
+tt0206013;ホーホケキョ となりの山田くん;1999-07-17;104;0;0;https://image.tmdb.org/t/p/original/wTGuHmMIBBgKakY80J1D52VvQKI.jpg;7.2
+tt0227538;Spy Kids;2001-03-18;88;35000000;147934180;https://image.tmdb.org/t/p/original/urb5Wf4yffJQ2KwAuSPxCbOM8HA.jpg;5.5
+tt0230011;Atlantis: The Lost Empire;2001-06-02;95;120000000;186053725;https://image.tmdb.org/t/p/original/iqGKNML7IUqw4wVNobkpkeYZbUQ.jpg;6.9
+tt0235679;劇場版ポケットモンスター 結晶塔の帝王 ENTEI;2000-07-08;74;16000000;68411275;https://image.tmdb.org/t/p/original/g2C95ubS56O1ITXy1MgC69kAwF0.jpg;5.8
+tt0239395;Cats & Dogs;2001-07-04;87;60000000;93375151;https://image.tmdb.org/t/p/original/77dmCJelVTBPBwbTppiisQx0e82.jpg;5.2
+tt0243585;Stuart Little 2;2002-07-19;78;120000000;169956806;https://image.tmdb.org/t/p/original/hjfeMLWqJY44mqqJKZSa6jx4Y1j.jpg;5.5
+tt0249677;Lady and the Tramp II: Scamp's Adventure;2001-02-18;69;0;0;https://image.tmdb.org/t/p/original/nS3nhUZUSY8dWEsRmKILfiOC3F0.jpg;5.9
+tt0264464;Catch Me If You Can;2002-12-16;141;52000000;352114312;https://image.tmdb.org/t/p/original/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg;8.1
+tt0266543;Finding Nemo;2003-05-30;100;94000000;940335536;https://image.tmdb.org/t/p/original/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg;8.1
+tt0268380;Ice Age;2002-03-10;81;59000000;383257136;https://image.tmdb.org/t/p/original/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg;7.5
+tt0268397;Jimmy Neutron: Boy Genius;2001-12-21;83;25000000;80936232;https://image.tmdb.org/t/p/original/pUwdquA6Bf3Gq8yT5iQL1Yq0jkl.jpg;6
+tt0275847;Lilo & Stitch;2002-06-21;85;80000000;273144151;https://image.tmdb.org/t/p/original/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg;7.3
+tt0279967;Mulan II;2004-11-03;79;0;0;https://image.tmdb.org/t/p/original/8cUIHYXpDFYX6r5ZviQuRKCVLJ2.jpg;5.7
+tt0283426;The Jungle Book 2;2003-02-07;72;20000000;135680000;https://image.tmdb.org/t/p/original/DhuskQc9lSjPiYKr9hy0AZ7uiC.jpg;5.4
+tt0286112;少林足球;2001-07-05;113;10000005;42776760;https://image.tmdb.org/t/p/original/kVpq68NxChzynK7otaymRSaWR8p.jpg;7.3
+tt0287717;Spy Kids 2: The Island of Lost Dreams;2002-08-07;100;38000000;119723358;https://image.tmdb.org/t/p/original/A6gkSQVkbUiSCq7C9kexlJF8GdI.jpg;5.2
+tt0288441;Barbie in the Nutcracker;2001-09-30;76;0;0;https://image.tmdb.org/t/p/original/eIkXJggVmzN4MyPgJ2kDjOy9lmQ.jpg;6.3
+tt0298148;Shrek 2;2004-05-19;93;150000000;928760770;https://image.tmdb.org/t/p/original/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg;7.2
+tt0299172;Home on the Range;2004-04-02;76;110000000;103951461;https://image.tmdb.org/t/p/original/9xIIo4FMquy5SRqn8hppyr2QadR.jpg;5.4
+tt0307453;Shark Tale;2004-09-20;90;75000000;367275019;https://image.tmdb.org/t/p/original/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg;6
+tt0312004;Wallace & Gromit: The Curse of the Were-Rabbit;2005-09-04;85;30000000;192610372;https://image.tmdb.org/t/p/original/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg;7.4
+tt0313255;Barbie as Rapunzel;2002-10-01;84;0;0;https://image.tmdb.org/t/p/original/ysiGzuMSc0nFmmDPn9z7U7YSFYf.jpg;6.5
+tt0317219;Cars;2006-06-08;117;120000000;461983149;https://image.tmdb.org/t/p/original/qa6HCwP4Z15l3hpsASz3auugEW6.jpg;7.1
+tt0317705;The Incredibles;2004-10-27;115;92000000;631442092;https://image.tmdb.org/t/p/original/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg;8
+tt0318403;The Lion King 1½;2004-02-06;77;0;0;https://image.tmdb.org/t/p/original/sVJME5R1NmTXtbdnAxYPx7Xa7kr.jpg;6.5
+tt0318850;Young Black Stallion;2003-12-25;49;0;0;https://image.tmdb.org/t/p/original/emHK0UPlznLOkeu1Ml4ctoEQGp7.jpg;5.4
+tt0324941;101 Dalmatians II: Patch's London Adventure;2003-03-02;74;0;0;https://image.tmdb.org/t/p/original/mcl56J7tDPjzEesgpX4UPgAdbvf.jpg;5.8
+tt0325980;Pirates of the Caribbean: The Curse of the Black Pearl;2003-07-09;143;140000000;655011224;https://image.tmdb.org/t/p/original/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg;8
+tt0327084;Over the Hedge;2006-05-17;83;80000000;343397247;https://image.tmdb.org/t/p/original/6qKM3Rl1tQgOFO1fMA7DAizWZ5n.jpg;6.7
+tt0328880;Brother Bear;2003-10-23;85;128000000;250397798;https://image.tmdb.org/t/p/original/9VvLgj28J5m04y5gO0mt5np4yF8.jpg;6.8
+tt0331632;Scooby-Doo 2: Monsters Unleashed;2004-03-24;93;80000000;181466833;https://image.tmdb.org/t/p/original/5BrXCJrs22bR5KR6mLHluYo6y4m.jpg;5.2
+tt0335266;Lost in Translation;2003-09-18;102;4000000;119723856;https://image.tmdb.org/t/p/original/wkSzJs7oMf8MIr9CQVICsvRfwA7.jpg;7.7
+tt0338348;The Polar Express;2004-11-10;100;165000000;310634054;https://image.tmdb.org/t/p/original/zCuq1sy3xwbJJytFttp2qItqdc8.jpg;6.6
+tt0338459;Spy Kids 3-D: Game Over;2003-07-25;84;38000000;197011982;https://image.tmdb.org/t/p/original/oP53PyexPlQd1xDt8kkvX5LdQdT.jpg;4.3
+tt0344854;Arthur et les Minimoys;2006-12-13;94;86000000;107944236;https://image.tmdb.org/t/p/original/gH27K0S7BiZCsNMxzOQTacG9IZp.jpg;6
+tt0347149;ハウルの動く城;2004-09-09;119;24000000;236049757;https://image.tmdb.org/t/p/original/yeJ5Nj1k2NA0bBZjkZ10PvQKjTD.jpg;8.2
+tt0347618;猫の恩返し;2002-07-19;75;0;54016370;https://image.tmdb.org/t/p/original/pqyY7IEWkCWNZ7EuRStQaJITEta.jpg;7.2
+tt0348878;T'choupi;2004-04-07;70;0;0;https://image.tmdb.org/t/p/original/p5dPk9rWDIMGTVtunyziWFPz3lq.jpg;6.2
+tt0351283;Madagascar;2005-05-25;86;75000000;542063846;https://image.tmdb.org/t/p/original/uHkmbxb70IQhV4q94MiBe9dqVqv.jpg;6.9
+tt0358082;Robots;2005-03-10;91;75000000;262511490;https://image.tmdb.org/t/p/original/bS94Dt0FKW1463UQyv78MVOw6Pf.jpg;6.4
+tt0366548;Happy Feet;2006-11-16;108;100000000;384335608;https://image.tmdb.org/t/p/original/za41IHkj6LnkilfTzv5B2qmthKD.jpg;6.4
+tt0367594;Charlie and the Chocolate Factory;2005-07-13;115;150000000;474968763;https://image.tmdb.org/t/p/original/wfGfxtBkhBzQfOZw4S8IQZgrH0a.jpg;6.6
+tt0371823;Mickey, Donald, Goofy: The Three Musketeers;2004-08-04;68;0;0;https://image.tmdb.org/t/p/original/23bvOwfOS9fw347Yc68yPpkmd8i.jpg;6.4
+tt0372784;Batman Begins;2005-06-10;140;150000000;374218673;https://image.tmdb.org/t/p/original/8RW2runSEc34IwKN2D1aPcJd2UL.jpg;8.2
+tt0375568;Astro Boy;2009-10-15;94;10000000;19551067;https://image.tmdb.org/t/p/original/fYOJaaCpqq1NatziVJntmsXXDi8.jpg;6.3
+tt0382932;Ratatouille;2007-06-28;111;150000000;623726000;https://image.tmdb.org/t/p/original/npHNjldbeTHdKKw28bJKs7lzqzj.jpg;8
+tt0383060;Zoom;2006-08-11;83;75600000;12506188;https://image.tmdb.org/t/p/original/v4rSFmiy0v9D7qmKkaUVJn5UhZ1.jpg;4.3
+tt0383574;Pirates of the Caribbean: Dead Man's Chest;2006-07-06;151;200000000;1065659812;https://image.tmdb.org/t/p/original/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg;7.3
+tt0385700;Final Fantasy VII: Advent Children;2005-07-14;101;0;0;https://image.tmdb.org/t/p/original/pTIXM2yu8McSlcQVs1VjVSNC45x.jpg;7.2
+tt0389790;Bee Movie;2007-10-28;91;150000000;287594577;https://image.tmdb.org/t/p/original/rYBaXgvTKFS8iZC7Wr8SMomSauQ.jpg;6.1
+tt0396555;Meet the Robinsons;2007-03-23;95;150000000;169332978;https://image.tmdb.org/t/p/original/swsjj0jZtsx53Yp9zBORPwsmGWj.jpg;6.8
+tt0397892;Bolt;2008-11-21;98;150000000;309979994;https://image.tmdb.org/t/p/original/z9VHoUcZ1GiH3f3qYz7Me7Zc1Fd.jpg;6.8
+tt0398286;Tangled;2010-11-24;100;260000000;592461732;https://image.tmdb.org/t/p/original/ym7Kst6a4uodryxqbGOxmewF235.jpg;7.7
+tt0400717;Open Season;2006-09-27;86;85000000;197309027;https://image.tmdb.org/t/p/original/w5Lctmkc1yah215Luxmci4djaiW.jpg;6.1
+tt0413267;Shrek the Third;2007-05-17;93;160000000;813367380;https://image.tmdb.org/t/p/original/n4SexGGQzI26E269tfpa80MZaGV.jpg;6.1
+tt0413895;Charlotte's Web;2006-12-07;97;85000000;144000000;https://image.tmdb.org/t/p/original/gqg3ruuEDQ6XmXjFGrTDrk58xJg.jpg;6.3
+tt0414853;Barnyard;2006-08-04;90;51000000;116476887;https://image.tmdb.org/t/p/original/qlSCUmrflADYlCMbkviJjfujhTH.jpg;5.6
+tt0416236;The Spiderwick Chronicles;2008-02-14;95;90000000;164170327;https://image.tmdb.org/t/p/original/uN7MUMaCXfa8DbMMp61A8iXEcEG.jpg;6.5
+tt0416908;Lauras Stern;2004-09-19;75;0;0;https://image.tmdb.org/t/p/original/6MmTM4LYJqjw5agrTwjBSpSNgTm.jpg;6.2
+tt0420238;The Tale of Despereaux;2008-12-18;93;60000000;86947965;https://image.tmdb.org/t/p/original/v7g38bMYiZBL6lged8Xe9jI9uDM.jpg;6.1
+tt0423294;Surf's Up;2007-06-08;85;85000000;149044513;https://image.tmdb.org/t/p/original/tTDsCVlDA8QR4Dc6t6nERfwl5z.jpg;6.7
+tt0424095;Flushed Away;2006-10-22;85;149000000;178120010;https://image.tmdb.org/t/p/original/5h0z7gFhVDgzFZOnfDMU1bcKjiG.jpg;6.6
+tt0424774;The Adventures of Sharkboy and Lavagirl;2005-06-10;92;50000000;71992655;https://image.tmdb.org/t/p/original/wyXPANZMYYbKh8Ic8qFLqMkolyV.jpg;3.7
+tt0426955;Barbie as The Princess & the Pauper;2004-09-28;85;0;0;https://image.tmdb.org/t/p/original/xHYsUwUe4MaNc6mbNBGTkqZSnPk.jpg;6.9
+tt0427229;Failure to Launch;2006-03-10;97;50000000;128406887;https://image.tmdb.org/t/p/original/wQrNTe7VDytVDet9Jus6RDKEPYZ.jpg;5.6
+tt0432283;Fantastic Mr. Fox;2009-10-23;87;40000000;46471023;https://image.tmdb.org/t/p/original/njbTizADSZg4PqeyJdDzZGooikv.jpg;7.9
+tt0435761;Toy Story 3;2010-06-16;103;200000000;1066969703;https://image.tmdb.org/t/p/original/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg;8.2
+tt0436339;G-Force;2009-07-21;88;150000000;292817841;https://image.tmdb.org/t/p/original/4CTxlU4JGSqq0yxi5ZVtAu5zsHE.jpg;5.1
+tt0437777;Something New;2006-01-29;99;0;11400000;https://image.tmdb.org/t/p/original/w1nURdrpMLdUbcb67BUy77syi04.jpg;6.6
+tt0441773;Kung Fu Panda;2008-06-04;90;130000000;631744560;https://image.tmdb.org/t/p/original/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg;7.6
+tt0447854;Bambi II;2006-01-26;72;0;0;https://image.tmdb.org/t/p/original/wIVLCnwYynKIiAheJoEQtC8gTjq.jpg;6.1
+tt0448115;Shazam!;2019-03-29;132;80000000;365971656;https://image.tmdb.org/t/p/original/xnopI5Xtky18MPhK40cZAGAOVeV.jpg;7
+tt0448694;Puss in Boots;2011-10-28;90;130000000;554987477;https://image.tmdb.org/t/p/original/eufJ36oQCauDc427ewaEvQrhZ6i.jpg;6.6
+tt0450982;Barbie: Fairytopia;2005-03-08;70;0;0;https://image.tmdb.org/t/p/original/a0VPQHpLNCWWmiXwjD7aJVRaH78.jpg;6
+tt0451279;Wonder Woman;2017-05-30;141;149000000;822854286;https://image.tmdb.org/t/p/original/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg;7.4
+tt0453556;TMNT;2007-03-23;87;34000000;95608995;https://image.tmdb.org/t/p/original/ksguZE9rTtsRJlhTO59WNmPNjOR.jpg;6.2
+tt0470982;Air Buddies;2006-12-12;80;9000000;0;https://image.tmdb.org/t/p/original/7eRiBonjI6PxlXIMGkzxtL2pvU6.jpg;4.8
+tt0472181;The Smurfs;2011-07-29;103;110000000;563749323;https://image.tmdb.org/t/p/original/vRhnslP2gW0QDym7BsMeSuioUfK.jpg;5.4
+tt0477347;Night at the Museum;2006-10-20;108;110000000;574480841;https://image.tmdb.org/t/p/original/uY9k8t2FQkMj60obnAnsPKLxHCE.jpg;6.4
+tt0478970;Ant-Man;2015-07-14;117;130000000;519311965;https://image.tmdb.org/t/p/original/cj2gWN7TdH1iUG6pUQyqv9N2AXc.jpg;7.3
+tt0479952;Madagascar: Escape 2 Africa;2008-10-30;89;150000000;603900354;https://image.tmdb.org/t/p/original/agRbLOHgN46TQO4YdKR462iR7To.jpg;6.6
+tt0481499;The Croods;2013-03-15;98;135000000;587204668;https://image.tmdb.org/t/p/original/pBn3zbixFgX11lZ84KJgLoELfYd.jpg;7.2
+tt0486655;Stardust;2007-08-09;127;70000000;137515140;https://image.tmdb.org/t/p/original/AsCrevARwF6eCrF2v8zpLdn0gth.jpg;7.6
+tt0499549;Avatar;2009-12-15;162;237000000;2147483647;https://image.tmdb.org/t/p/original/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg;7.9
+tt0765465;The Legend of Secret Pass;2010-10-14;92;25400000;0;https://image.tmdb.org/t/p/original/dFC6tJmIeAAR6RrPGqVR3fyPQeO.jpg;5
+tt0780521;The Princess and the Frog;2009-12-08;98;105000000;270997378;https://image.tmdb.org/t/p/original/yprv5PbnEksoVj2v6XEnDBg9joR.jpg;7.1
+tt0816692;Interstellar;2014-11-05;169;165000000;701729206;https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg;8.7
+tt0823671;Tinker Bell;2008-09-11;78;48000000;0;https://image.tmdb.org/t/p/original/3Ma0r1n8kfH7UaQMS7bJ9KsYUjT.jpg;6.8
+tt0837562;Hotel Transylvania;2012-09-20;91;85000000;358375603;https://image.tmdb.org/t/p/original/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg;7.1
+tt0844471;Cloudy with a Chance of Meatballs;2009-09-17;90;100000000;242988466;https://image.tmdb.org/t/p/original/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg;6.9
+tt0859594;Barbie in the 12 Dancing Princesses;2006-09-19;83;0;0;https://image.tmdb.org/t/p/original/opxyzBkB44ubRRyhdrvkoUFWuIj.jpg;6.8
+tt0864835;Mr. Peabody & Sherman;2014-02-07;92;145000000;272912430;https://image.tmdb.org/t/p/original/c6kZC5pvwNIRSxiLL2JFGGc46He.jpg;6.8
+tt0876563;崖の上のポニョ;2008-07-19;100;41677699;202404009;https://image.tmdb.org/t/p/original/yp8vEZflGynlEylxEesbYasc06i.jpg;7.6
+tt0892769;How to Train Your Dragon;2010-03-18;98;165000000;494878759;https://image.tmdb.org/t/p/original/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg;8.1
+tt0892782;Monsters vs Aliens;2009-03-19;94;175000000;381509870;https://image.tmdb.org/t/p/original/hpHarddVj34j53T7NsoUGdKj4mP.jpg;6.4
+tt0892791;Shrek Forever After;2010-05-16;93;165000000;752600867;https://image.tmdb.org/t/p/original/faRzuUxkZYzSc8UlAZGQ4tqE1Pi.jpg;6.3
+tt0910970;WALL·E;2008-06-22;98;180000000;521311860;https://image.tmdb.org/t/p/original/Agc6lw8pb6BIGVeguvdjDT0p9Mb.jpg;8.4
+tt0974015;Justice League;2017-11-15;120;300000000;657926987;https://image.tmdb.org/t/p/original/eifGNCSDuxJeS1loAXil5bIGgvC.jpg;6.1
+tt0983193;The Adventures of Tintin;2011-10-24;107;130000000;371940071;https://image.tmdb.org/t/p/original/mKYkNro2btaWMsnYSuyqrBdHQo3.jpg;7.3
+tt10006006;A Christmas Prince: The Royal Baby;2019-12-05;84;0;0;https://image.tmdb.org/t/p/original/4RErLw0APt8qQiee0d8VCKasWwl.jpg;5.4
+tt1001526;Megamind;2010-10-28;96;130000000;321885765;https://image.tmdb.org/t/p/original/7l5OY9oeJyaB2XJKrg0du7pmi1C.jpg;7.3
+tt10060094;The Knight Before Christmas;2019-11-21;92;0;0;https://image.tmdb.org/t/p/original/ivymBQYzYqZoLhvgYg77gSzXKsA.jpg;5.6
+tt10101702;My Little Pony: A New Generation;2021-09-23;91;0;0;https://image.tmdb.org/t/p/original/hzq5XRGgm6NDMOW1idUvbpGqEkv.jpg;6.9
+tt10127562;ドラゴンクエスト ユア・ストーリー;2019-08-02;102;0;0;https://image.tmdb.org/t/p/original/5R70ehKGh5V0ZYOdikxwSfoLGMt.jpg;6.6
+tt10223460;Marry Me;2022-02-09;112;23000000;44000000;https://image.tmdb.org/t/p/original/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg;6.1
+tt1022603;(500) Days of Summer;2009-07-17;95;7500000;60781545;https://image.tmdb.org/t/p/original/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg;7.7
+tt10298810;Lightyear;2022-06-15;107;200000000;158980527;https://image.tmdb.org/t/p/original/vpILbP9eOQEtdQgl4vgjZUNY07r.jpg;5.2
+tt10298840;Strange World;2022-11-23;102;180000000;73621640;https://image.tmdb.org/t/p/original/fHMqfsYyl3lskPK2RiFRwhzwuep.jpg;5.6
+tt10364034;Miraculous - le film;2023-07-05;107;86000000;0;https://image.tmdb.org/t/p/original/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg;6.1
+tt1049413;Up;2009-05-28;96;175000000;735099082;https://image.tmdb.org/t/p/original/eAdO0qa9m0NFSVLZ26PvCwmPlsr.jpg;8.2
+tt10540242;The Main Event;2020-04-10;102;0;0;https://image.tmdb.org/t/p/original/tzg5AEEu1T7nFOCq4gKbGBObhdk.jpg;4.8
+tt10600398;We Can Be Heroes;2020-12-25;97;0;0;https://image.tmdb.org/t/p/original/1S21HpcKY6uQ9UAw68aICmrJaq6.jpg;4.7
+tt10635042;劇場版 美少女戦士セーラームーンEternal 前編;2021-01-08;80;0;0;https://image.tmdb.org/t/p/original/aHMhFF7mT9tWyqBqeXBicjoYNS.jpg;7.1
+tt10714856;Feel the Beat;2020-06-19;107;0;0;https://image.tmdb.org/t/p/original/Af2jt7m9GLFpR4V11xOsFmT8OKD.jpg;6.3
+tt1078912;Night at the Museum: Battle of the Smithsonian;2009-05-20;105;150000000;413106170;https://image.tmdb.org/t/p/original/dNvYjzFuSSY7DCVZK7zzaZFemHt.jpg;6
+tt1080016;Ice Age: Dawn of the Dinosaurs;2009-06-26;94;90000000;886686817;https://image.tmdb.org/t/p/original/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg;6.9
+tt10841088;Riverdance: The Animated Adventure;2021-05-28;86;0;0;https://image.tmdb.org/t/p/original/i6TRDlVuuEXMyLSlIkDd8YhBN0r.jpg;5.5
+tt10872600;Spider-Man: No Way Home;2021-12-15;148;200000000;1921847111;https://image.tmdb.org/t/p/original/5weKu49pzJCt06OPpjvT80efnQj.jpg;8.2
+tt10945254;Opération Portugal;2021-06-23;95;1400000;3795575;https://image.tmdb.org/t/p/original/lzTNmjQuF6yFIFVhfp9n3z1Ebm6.jpg;4.5
+tt10954600;Ant-Man and the Wasp: Quantumania;2023-02-15;125;200000000;475766228;https://image.tmdb.org/t/p/original/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg;6.2
+tt1099212;Twilight;2008-11-20;122;37000000;393616788;https://image.tmdb.org/t/p/original/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg;5.2
+tt11057644;The Christmas Chronicles: Part Two;2020-11-18;112;0;0;https://image.tmdb.org/t/p/original/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg;6
+tt11060092;Poly;2020-06-10;102;0;5236154;https://image.tmdb.org/t/p/original/n2v7Uqe9wjguBjDtOX9sbA1OSMh.jpg;5.7
+tt1107365;Open Season 2;2008-09-24;76;0;8700000;https://image.tmdb.org/t/p/original/lM4bahouPblYcfngZtnNSkaWxCU.jpg;5.5
+tt11084896;Spirit Untamed;2021-05-20;88;30000000;17635215;https://image.tmdb.org/t/p/original/q4WaFHk9Vp1poc88X1szwFRtYc5.jpg;5.5
+tt1109624;Paddington;2014-11-24;96;55000000;259207227;https://image.tmdb.org/t/p/original/wpchRGhRhvhtU083PfX2yixXtiw.jpg;7.3
+tt11125620;The Addams Family 2;2021-10-01;93;0;119815153;https://image.tmdb.org/t/p/original/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg;5.4
+tt11125636;Yakari : La Grande Aventure;2020-08-12;82;0;3790930;https://image.tmdb.org/t/p/original/3S0SmnNcEcnUDl0XAX3W2pm5G6J.jpg;6.3
+tt11199410;The Princess Switch: Switched Again;2020-11-19;97;10000000;0;https://image.tmdb.org/t/p/original/e4qXQXXaVYvHBE3Rx5x3qrmxorB.jpg;5.4
+tt11247064;Full Out 2: You Got This!;2020-02-01;90;0;0;https://image.tmdb.org/t/p/original/yeW1gOLWauwhFVleLwcW29RHLG2.jpg;4.8
+tt11276598;Pets United;2019-11-08;89;0;0;https://image.tmdb.org/t/p/original/gtwqIYSOCRwEndZTg9s6iWjEZc1.jpg;3.8
+tt11278476;Rescued by Ruby;2022-03-17;93;0;0;https://image.tmdb.org/t/p/original/tPlJEodEn0SSV4avo8KSawtlTlN.jpg;7.2
+tt11286314;Don't Look Up;2021-12-07;138;75000000;784681;https://image.tmdb.org/t/p/original/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg;7.2
+tt1133985;Green Lantern;2011-06-16;114;200000000;219851172;https://image.tmdb.org/t/p/original/fj21HwUprqjjwTdkKC1XZurRSpV.jpg;5.5
+tt11426572;Wedding Season;2022-08-04;99;0;0;https://image.tmdb.org/t/p/original/mFeXAZ1oOECPqEu8c2i4L5LmNyY.jpg;6.3
+tt11564570;Glass Onion: A Knives Out Mystery;2022-11-23;140;40000000;13280000;https://image.tmdb.org/t/p/original/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg;7.7
+tt1160419;Dune;2021-09-15;155;165000000;402027830;https://image.tmdb.org/t/p/original/d5NXSklXo0qyIYkgV94XAgMIckC.jpg;8
+tt1176410;Beethoven's Big Break;2008-12-26;101;0;0;https://image.tmdb.org/t/p/original/n6BFaobIdGWQhYI1uiq9gmY4FBq.jpg;4.5
+tt11819890;劇場版ポケットモンスター ココ;2020-12-25;98;0;0;https://image.tmdb.org/t/p/original/vGcHyV9s1N2I7bJLSBODvqHTYLL.jpg;6.6
+tt11958344;泣きたい私は猫をかぶる;2020-06-18;104;0;0;https://image.tmdb.org/t/p/original/6inkRM1XGBG5vRhclCPWfMenp7N.jpg;6.7
+tt12139700;Jungle Beat: The Movie;2020-07-02;84;0;0;https://image.tmdb.org/t/p/original/cgC67SOxd9xkjN4Bnvjtuj1vI8T.jpg;5.6
+tt1216475;Cars 2;2011-06-11;106;200000000;559852396;https://image.tmdb.org/t/p/original/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg;6.1
+tt1216515;Tinker Bell and the Great Fairy Rescue;2010-07-29;76;0;0;https://image.tmdb.org/t/p/original/cb7PrVIYbwIadQqWxgSU6CGHJjj.jpg;6.9
+tt1216516;Tinker Bell and the Lost Treasure;2009-09-03;81;0;0;https://image.tmdb.org/t/p/original/hg1959yuBkHb4BKbIvETQSfxGCT.jpg;6.7
+tt1217209;Brave;2012-06-21;93;185000000;538983207;https://image.tmdb.org/t/p/original/L6qqU6Q3k4MmPojncNbT43FSTL.jpg;7.1
+tt1217213;Secret of the Wings;2012-08-17;92;0;0;https://image.tmdb.org/t/p/original/iOp2tq3KkrSpVZ5DE2RFvV2OPv9.jpg;7.1
+tt1219827;Ghost in the Shell;2017-03-29;107;110000000;169801921;https://image.tmdb.org/t/p/original/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg;6.3
+tt1230204;A Turtle's Tale: Sammy's Adventures;2010-08-03;88;0;71594792;https://image.tmdb.org/t/p/original/3rl95Ml7Igdkc5QKe2GEUWa1SFU.jpg;6.1
+tt1239462;La véritable histoire du Chat Botté;2009-04-01;82;0;0;https://image.tmdb.org/t/p/original/va4tC2RBC0uwpmq0cctruJmZgFs.jpg;3
+tt12441478;アーヤと魔女;2021-01-27;82;0;384659;https://image.tmdb.org/t/p/original/86jyzdxtAX8p956rVQDKwGbrYh2.jpg;4.7
+tt12459520;De Familie Claus;2020-12-07;96;0;0;https://image.tmdb.org/t/p/original/6vA3SbLQ6aH2m3eOKMv2Ki49ypV.jpg;5.5
+tt12481806;El camino de Xico;2020-11-12;85;0;0;https://image.tmdb.org/t/p/original/g8ZyfUC0THygJkVoO2J7NxsdPI5.jpg;5.2
+tt1259571;The Twilight Saga: New Moon;2009-11-18;131;50000000;709827462;https://image.tmdb.org/t/p/original/j5jM5pq78ObAXX1WhTsb115EkLl.jpg;4.8
+tt12759408;Octonauts and the Caves of Sac Actun;2020-08-14;72;0;0;https://image.tmdb.org/t/p/original/wlizMbZByBYPOC4i2AN64e4W1iM.jpg;6.5
+tt12767498;Barbie: Princess Adventure;2020-09-01;72;0;0;https://image.tmdb.org/t/p/original/AwkmMTKJBAatbeAVhTwhcU3Pyp4.jpg;5.6
+tt1277953;Madagascar 3: Europe's Most Wanted;2012-06-06;93;145000000;746921274;https://image.tmdb.org/t/p/original/ekraj4ksvIKeuvQVEevEJkuybZd.jpg;6.8
+tt12801262;Luca;2021-06-17;95;200000000;49010641;https://image.tmdb.org/t/p/original/jTswp6KyDYKtvC52GbHagrZbGvD.jpg;7.5
+tt12851396;Trollhunters: Rise of the Titans;2021-07-21;106;0;0;https://image.tmdb.org/t/p/original/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg;6.6
+tt1287468;Cats & Dogs: The Revenge of Kitty Galore;2010-07-28;82;85000000;112483764;https://image.tmdb.org/t/p/original/nTsZT66I4U3aS9ezLdOKacfvo8T.jpg;4.4
+tt1294138;Barbie and the Diamond Castle;2008-09-03;78;0;0;https://image.tmdb.org/t/p/original/dvjFM3GgYm3gDZ6Ulw0JurDYs4r.jpg;6.4
+tt1302011;Kung Fu Panda 2;2011-05-25;91;150000000;665692281;https://image.tmdb.org/t/p/original/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg;7.2
+tt13103340;Father Christmas Is Back;2021-11-07;105;0;0;https://image.tmdb.org/t/p/original/mI6mFCO3lrJ4ovzwfmoLs58uhlK.jpg;4.5
+tt1323594;Despicable Me;2010-07-08;95;69000000;533679475;https://image.tmdb.org/t/p/original/fb9zF01GKOkNziYVusg20laWsGh.jpg;7.6
+tt1324999;The Twilight Saga: Breaking Dawn - Part 1;2011-11-16;117;110000000;712171856;https://image.tmdb.org/t/p/original/dSSzv6JrlwS48pBeTNSswLJXOYF.jpg;4.9
+tt1325004;The Twilight Saga: Eclipse;2010-06-23;124;68000000;698491347;https://image.tmdb.org/t/p/original/3mFM80dPzSqoXXuC2UMvLIRWX32.jpg;5
+tt13320662;Slumberland;2022-11-18;117;35000000;0;https://image.tmdb.org/t/p/original/oGd2JUEtr0BZN3pK8yakmoZlVFq.jpg;6.7
+tt13444014;Love at First Sight;2023-09-15;91;0;0;https://image.tmdb.org/t/p/original/vCMGlarDrcmhclBmnYoH7JUCDuA.jpg;-1
+tt13454122;Arlo the Alligator Boy;2021-04-16;92;0;0;https://image.tmdb.org/t/p/original/oOQMJM7G2W8v2AEK722k8welIJY.jpg;6.7
+tt13575806;Back to the Outback;2021-12-03;92;0;0;https://image.tmdb.org/t/p/original/zNXNRLH5wJprUG6B1olaBTNZOjy.jpg;6.6
+tt13603966;Heart of Stone;2023-08-09;125;0;0;https://image.tmdb.org/t/p/original/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg;-1
+tt13779166;Octonauts: The Ring of Fire;2021-01-08;72;0;0;https://image.tmdb.org/t/p/original/6hOnSANc3NGsQN9bAF13ey2ZrKU.jpg;7
+tt13932162;Ганзель, Гретель и Агентство Магии;2021-03-18;104;0;0;https://image.tmdb.org/t/p/original/4ZSzEDVdxWVMVO4oZDvoodQOEfr.jpg;6.2
+tt1402488;Happy Feet Two;2011-11-18;100;130000000;150406466;https://image.tmdb.org/t/p/original/2gWiQ4mn85jcXtREVePlVViupeV.jpg;5.9
+tt1430607;Arthur Christmas;2011-11-10;97;10000000;0;https://image.tmdb.org/t/p/original/sPCrGLdTMn0ud3oAJG37VDxpQfZ.jpg;7.1
+tt1430626;The Pirates! In an Adventure with Scientists!;2012-03-12;88;60000000;123054041;https://image.tmdb.org/t/p/original/gxQWAhT2Hpsid1aBQQmQyYP6brw.jpg;6.7
+tt14317062;Barbie & Chelsea: The Lost Birthday;2021-05-14;60;0;0;https://image.tmdb.org/t/p/original/yZdVDxLXbz4yucwMy1yTCGTYNVC.jpg;6.2
+tt1436562;Rio;2011-04-03;96;90000000;484635760;https://image.tmdb.org/t/p/original/oo7M77GXEyyqDGOhzNNZTzEuDSF.jpg;6.9
+tt14384176;De Familie Claus 2;2021-12-07;98;0;0;https://image.tmdb.org/t/p/original/k1m0SgH91AtSVcAY9p7dtqh0Pgr.jpg;5.5
+tt1446192;Rise of the Guardians;2012-11-21;97;145000000;306941670;https://image.tmdb.org/t/p/original/kUBkmlWriPbNMijL2m3LtmPYPTb.jpg;7.3
+tt1453405;Monsters University;2013-06-19;104;200000000;743559607;https://image.tmdb.org/t/p/original/upaMBEonGeZGQc3xtUVZOfe1lGl.jpg;7.2
+tt1454468;Gravity;2013-10-03;91;105000000;723192705;https://image.tmdb.org/t/p/original/wmUeEacsFZzDndaeOtNNmy26rYJ.jpg;7.7
+tt14641788;Enola Holmes 2;2022-11-04;129;0;0;https://image.tmdb.org/t/p/original/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg;-1
+tt14715170;Falling for Christmas;2022-11-10;95;0;0;https://image.tmdb.org/t/p/original/xs2S7EnrKHVW2DYoGSZfpvOZrF5.jpg;5.4
+tt14731142;The Princess Switch 3: Romancing the Star;2021-11-18;106;0;0;https://image.tmdb.org/t/p/original/bknLygnlfMjiLahnAncvKFXXRMs.jpg;5.5
+tt1473832;Bridget Jones's Baby;2016-09-14;123;35000000;211952420;https://image.tmdb.org/t/p/original/k703Pb5C0NsLvXPgFk8kAKnLylq.jpg;6.5
+tt1477834;Aquaman;2018-07-06;143;160000000;1148461807;https://image.tmdb.org/t/p/original/xLPffWMhMj1l50ND3KchMjYoKmE.jpg;6.9
+tt1482459;The Lorax;2012-03-01;86;70000000;348840316;https://image.tmdb.org/t/p/original/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg;6.4
+tt1485796;The Greatest Showman;2017-12-20;105;84000000;432844677;https://image.tmdb.org/t/p/original/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg;7.5
+tt1490017;The Lego Movie;2014-02-06;100;60000000;469160692;https://image.tmdb.org/t/p/original/lbctonEnewCYZ4FYoTZhs8cidAl.jpg;7.7
+tt1502397;Bad Boys for Life;2020-01-15;124;90000000;426505244;https://image.tmdb.org/t/p/original/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg;6.5
+tt15053428;Barbie: Big City, Big Dreams;2021-08-20;62;0;0;https://image.tmdb.org/t/p/original/jeggetf6lrd0dhtcbqJH75Sik4K.jpg;-1
+tt1517451;A Star Is Born;2018-10-03;136;36000000;433888866;https://image.tmdb.org/t/p/original/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg;7.6
+tt15255288;Murder Mystery 2;2023-03-28;91;0;0;https://image.tmdb.org/t/p/original/s1VzVhXlqsevi8zeCMG9A16nEUf.jpg;5.6
+tt15334430;Dog Gone;2023-01-13;95;0;0;https://image.tmdb.org/t/p/original/eYWdLZCS9W1Xli9bynzFSddLx02.jpg;-1
+tt15463032;Love in the Villa;2022-09-01;114;0;0;https://image.tmdb.org/t/p/original/t92CXfEP5aWBATeOomcF0wF9NsM.jpg;5.3
+tt15565714;Dawid i Elfy;2021-12-06;106;0;0;https://image.tmdb.org/t/p/original/gdQml1N2kysb1wKAGqTu3ZuQADW.jpg;5.2
+tt1568921;借りぐらしのアリエッティ;2010-07-16;94;23000000;149480483;https://image.tmdb.org/t/p/original/xLkyM2Vt3yqlttnql02uXt0lemy.jpg;7.6
+tt15789038;Elemental;2023-06-14;102;200000000;191678805;https://image.tmdb.org/t/p/original/8riWcADI1ekEiBguVB9vkilhiQm.jpg;7
+tt1587310;Maleficent;2014-05-28;97;180000000;758539785;https://image.tmdb.org/t/p/original/ik8PugpL41s137RAWEGTAWu0dPo.jpg;7
+tt1594972;Norm of the North;2016-01-14;86;7000000;17062499;https://image.tmdb.org/t/p/original/ouaoVSV7aOSWTNnQ9iDA1jw0pgg.jpg;3.4
+tt1596557;The Tiger Rising;2022-01-21;102;0;0;https://image.tmdb.org/t/p/original/mEukzqPoCpbrXLGslT8qdTuyRKZ.jpg;4.7
+tt15979222;A Kindhearted Christmas;2021-11-20;84;0;0;https://image.tmdb.org/t/p/original/rNvfIcaYjQjczvW6o3qdB7W4vz.jpg;7
+tt1610301;Barbie in A Mermaid Tale;2010-01-25;75;0;16441438;https://image.tmdb.org/t/p/original/jtOlo3AaXVBnqfMeKGFrZUMPFui.jpg;6.3
+tt1615918;Alvin and the Chipmunks: Chipwrecked;2011-12-14;87;75000000;342695435;https://image.tmdb.org/t/p/original/i2KJbbpodyxizppc8F9NbUb7Iiq.jpg;4.3
+tt1620981;The Addams Family;2019-10-10;86;40000000;203044905;https://image.tmdb.org/t/p/original/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg;5.8
+tt1630029;Avatar: The Way of Water;2022-12-14;192;460000000;1397417914;https://image.tmdb.org/t/p/original/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg;7.9
+tt1638275;Klara;2010-03-26;80;0;0;https://image.tmdb.org/t/p/original/1mLc96vr6H7kgBuvv3N4hPRtNqC.jpg;4.3
+tt1646926;Open Season 3;2010-10-21;75;0;0;https://image.tmdb.org/t/p/original/qEr9fkGLQUWcAnVfDV46L79bdFs.jpg;5
+tt1646971;How to Train Your Dragon 2;2014-06-05;102;145000000;621537500;https://image.tmdb.org/t/p/original/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg;7.8
+tt1661199;Cinderella;2015-03-12;105;95000000;543514353;https://image.tmdb.org/t/p/original/j91LJmcWo16CArFOoapsz84bwxb.jpg;6.9
+tt1677720;Ready Player One;2018-03-28;140;175000000;582890172;https://image.tmdb.org/t/p/original/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg;7.4
+tt1679335;Trolls;2016-10-13;92;125000000;346864462;https://image.tmdb.org/t/p/original/zKu5MNy9QW1a5ZHgv7iAp3kRZpE.jpg;6.5
+tt1690953;Despicable Me 2;2013-06-26;98;76000000;970761885;https://image.tmdb.org/t/p/original/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg;7.3
+tt1691917;Planes;2013-08-09;91;50000000;219788712;https://image.tmdb.org/t/p/original/yVbtaT9HQaJVNwhCXzh5AeJt9G8.jpg;5.7
+tt1723642;Sur la piste du Marsupilami;2012-04-03;105;50000000;50100000;https://image.tmdb.org/t/p/original/7H2hk9IzYhRPU0iPMOzEwJkeUBn.jpg;5.5
+tt1754455;L'apprenti Père Noël;2010-11-24;80;0;0;https://image.tmdb.org/t/p/original/ot2u06E1TjVCXkcoAEPSE1hHuTi.jpg;6.4
+tt1764625;Las aventuras de Tadeo Jones;2012-08-10;90;10500000;23000000;https://image.tmdb.org/t/p/original/vmysxjUJkYmp6CmjNOKOeHMOzFA.jpg;5.9
+tt1772341;Wreck-It Ralph;2012-01-01;101;165000000;471222889;https://image.tmdb.org/t/p/original/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg;7.7
+tt1794796;劇場版 イナズマイレブン 最強軍団オーガ襲来;2010-12-23;90;0;0;https://image.tmdb.org/t/p/original/y1GpLLkE7OLaVMsjQOXDd92stuG.jpg;6.6
+tt1799516;Benji;2018-01-01;87;6000000;585333;https://image.tmdb.org/t/p/original/79pacM3h5FoETnfuRC6O2qPfzn4.jpg;6.3
+tt1800254;Barbie: A Fairy Secret;2011-03-01;72;0;0;https://image.tmdb.org/t/p/original/wn2aoYKOonwMNKkzfgO5y4ji8pB.jpg;5.8
+tt18059108;Surviving Paradise: A Family Tale;2022-03-03;78;0;0;https://image.tmdb.org/t/p/original/c7cA49RgpTYgk7Db3XAzb8vExAD.jpg;7.5
+tt1860353;Turbo;2013-07-11;96;135000000;282570682;https://image.tmdb.org/t/p/original/tN4bjzZ3ePY57hpCTFk0Kc3oXAw.jpg;6.4
+tt1877830;The Batman;2022-03-01;177;185000000;770945583;https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg;7.8
+tt19500164;Nimona;2023-06-23;101;0;0;https://image.tmdb.org/t/p/original/2NQljeavtfl22207D1kxLpa4LS3.jpg;-1
+tt1979376;Toy Story 4;2019-06-19;100;175000000;1073394593;https://image.tmdb.org/t/p/original/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg;7.7
+tt1979388;The Good Dinosaur;2015-11-14;93;175000000;332207671;https://image.tmdb.org/t/p/original/j0MuLOCf7q5o62xGVhN80K36xYS.jpg;6.7
+tt1981677;Pitch Perfect;2012-09-28;112;17000000;115400000;https://image.tmdb.org/t/p/original/ntRIoh8Qf1BI1AYGx0STfq0wUmb.jpg;7.1
+tt1985949;The Angry Birds Movie;2016-05-11;97;73000000;349779543;https://image.tmdb.org/t/p/original/nsaaZryqabtrdKwXcNud2Bm39mu.jpg;6.3
+tt1985966;Cloudy with a Chance of Meatballs 2;2013-09-26;95;78000000;248384621;https://image.tmdb.org/t/p/original/tT2DN1tWk1zpCxqvaaNY8yP8Awn.jpg;6.4
+tt20115096;A Tourist's Guide to Love;2023-04-21;96;0;0;https://image.tmdb.org/t/p/original/uWkpjbBe4gRZilXRXbYfsMUZMhz.jpg;5.7
+tt2017020;The Smurfs 2;2013-07-30;105;105000000;347434178;https://image.tmdb.org/t/p/original/4zu8hbjp7bedcbetQssylLhpguk.jpg;5.3
+tt20561114;Christmas on Mistletoe Farm;2022-11-23;104;0;0;https://image.tmdb.org/t/p/original/rGCwI76dylPViDF9VXFY0ORRhls.jpg;-1
+tt2066832;Barbie: Princess Charm School;2011-08-11;79;0;0;https://image.tmdb.org/t/p/original/lI2jPbssax6XX5vDqB9mTJHGzfH.jpg;6.5
+tt2091240;Barbie: A Perfect Christmas;2011-11-03;74;0;0;https://image.tmdb.org/t/p/original/u14NrsyD9h505ZXs5Ofm7Tv3AuM.jpg;5.6
+tt2091256;Captain Underpants: The First Epic Movie;2017-06-01;89;38000000;125427681;https://image.tmdb.org/t/p/original/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg;6.2
+tt20917338;Scrooge: A Christmas Carol;2022-11-18;97;0;0;https://image.tmdb.org/t/p/original/nOrnzHn9SCF6JTXfX02eSPyAAXL.jpg;-1
+tt2096673;Inside Out;2015-06-09;95;175000000;857611174;https://image.tmdb.org/t/p/original/lRHE0vzf3oYJrhbsHXjIkF4Tl5A.jpg;8.1
+tt21933210;Barbie: Mermaid Power;2022-10-14;64;0;0;https://image.tmdb.org/t/p/original/8qb8cLDBAWdahrtixN2mQdI6e52.jpg;5.4
+tt2194499;About Time;2013-09-04;123;12000000;87100449;https://image.tmdb.org/t/p/original/iR1bVfURbN7r1C46WHFbwCkVve.jpg;7.8
+tt2197823;Barbie in A Mermaid Tale 2;2012-02-22;74;0;15489307;https://image.tmdb.org/t/p/original/iVCfTtVDAECpbMSokSNilIR6wPr.jpg;6.1
+tt2224026;Home;2015-03-18;94;135000000;368871007;https://image.tmdb.org/t/p/original/usFenYnk6mr8C62dB1MoAfSWMGR.jpg;6.6
+tt2245084;Big Hero 6;2014-10-24;102;165000000;657827828;https://image.tmdb.org/t/p/original/2mxS4wUimwlLmI1xp6QW6NSU361.jpg;7.8
+tt2262227;The Book of Life;2014-10-01;95;50000000;97437106;https://image.tmdb.org/t/p/original/aotTZos5KswgCryEzx2rlOjFsm1.jpg;7.2
+tt2267968;Kung Fu Panda 3;2016-01-23;95;145000000;521170825;https://image.tmdb.org/t/p/original/mEdOIiVF6yS0Q1y8GUyWwcG2mCi.jpg;7.1
+tt22774688;The Soccer Football Movie;2022-11-09;74;0;0;https://image.tmdb.org/t/p/original/sWoYDNPNZs5MtzPbirXV73tIHrA.jpg;-1
+tt2277860;Finding Dory;2016-06-16;97;200000000;1028570889;https://image.tmdb.org/t/p/original/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg;7.3
+tt2279373;The SpongeBob Movie: Sponge Out of Water;2015-01-28;92;74000000;311594032;https://image.tmdb.org/t/p/original/2WDmjUlSAPlA27i2OwEC7sRTFw3.jpg;6
+tt2293640;Minions;2015-06-17;91;74000000;1156730962;https://image.tmdb.org/t/p/original/vlOgaxUiMOA8sPDG9n3VhQabnEi.jpg;6.4
+tt2294629;Frozen;2013-11-20;102;150000000;1274219009;https://image.tmdb.org/t/p/original/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg;7.4
+tt2296777;Sherlock Gnomes;2018-03-15;86;59000000;90497778;https://image.tmdb.org/t/p/original/wqnzpJR3PwS4doVkAkt9seSEpoX.jpg;5.2
+tt23219684;Mighty Morphin Power Rangers: Once & Always;2023-04-19;59;0;0;https://image.tmdb.org/t/p/original/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg;5.8
+tt2357291;Rio 2;2014-03-19;101;103000000;500188435;https://image.tmdb.org/t/p/original/tpCqpv8y0cDb7mgIPeTv70W9vmF.jpg;6.3
+tt23623604;L.O.L. Surprise! Winter Fashion Show;2022-10-24;0;0;0;https://image.tmdb.org/t/p/original/ik65OsEXbik1I0Di7SX9Sqv04e9.jpg;-1
+tt2380307;Coco;2017-10-27;105;175000000;800526015;https://image.tmdb.org/t/p/original/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg;8.4
+tt2386490;How to Train Your Dragon: The Hidden World;2019-01-03;104;129000000;517526875;https://image.tmdb.org/t/p/original/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg;7.5
+tt2396690;Barbie: The Princess & The Popstar;2012-09-13;86;0;0;https://image.tmdb.org/t/p/original/hab6ZMC3eXj9pQHlSxNUjonphCR.jpg;5.6
+tt2398241;Smurfs: The Lost Village;2017-03-23;89;60000000;197183546;https://image.tmdb.org/t/p/original/diYAZ6CKUuRAqLYMB2AyVutEFm0.jpg;6
+tt2425618;Kirikou et les hommes et les femmes;2012-10-02;88;0;0;https://image.tmdb.org/t/p/original/7lDY3T7B4x0ZaEKcvcDOWOYIBG6.jpg;6.6
+tt2452244;Isn't It Romantic;2019-02-13;89;0;0;https://image.tmdb.org/t/p/original/5xNBYXuv8wqiLVDhsfqCOr75DL7.jpg;5.9
+tt2463208;The Adam Project;2022-03-11;106;116000000;471000000;https://image.tmdb.org/t/p/original/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg;6.7
+tt2510894;Hotel Transylvania 2;2015-09-21;89;80000000;473226958;https://image.tmdb.org/t/p/original/kKFgwQnR5q08UFsAvtoYyTIiHyj.jpg;6.7
+tt2527338;Star Wars: The Rise of Skywalker;2019-12-18;142;250000000;1074144248;https://image.tmdb.org/t/p/original/db32LaOibwEliAmSL2jjDF6oDdj.jpg;6.5
+tt2560092;The Magician's Elephant;2023-03-10;99;0;0;https://image.tmdb.org/t/p/original/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg;-1
+tt2630134;Barbie in the Pink Shoes;2013-02-14;75;0;0;https://image.tmdb.org/t/p/original/4HSPgeq04YUghXbSO5tSPP0jZ4k.jpg;5.5
+tt26931203;Barbie: Skipper and the Big Babysitting Adventure;2023-03-03;63;0;0;https://image.tmdb.org/t/p/original/dBeIdkiWzWhH5JynDvCDpwAqbY5.jpg;7.3
+tt2709768;The Secret Life of Pets;2016-06-18;87;75000000;875457937;https://image.tmdb.org/t/p/original/gJo9G56QlXKRe2tcdDVSt28xVsP.jpg;6.5
+tt2771200;Beauty and the Beast;2017-03-16;129;160000000;1263521126;https://image.tmdb.org/t/p/original/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg;7.1
+tt2822672;Rock Dog;2016-07-08;90;60000000;9420546;https://image.tmdb.org/t/p/original/7RXi2afiNJGU8EB79SD8HYoSz4O.jpg;6
+tt2848292;Pitch Perfect 2;2015-05-07;115;29000000;287506194;https://image.tmdb.org/t/p/original/fQaEGzFmvTYu3G641WV0Tg9auAt.jpg;6.4
+tt2850386;The Croods: A New Age;2020-11-25;95;65000000;168285000;https://image.tmdb.org/t/p/original/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg;6.9
+tt2872750;Shaun the Sheep Movie;2015-02-05;85;25000000;106209378;https://image.tmdb.org/t/p/original/dhVYlfMNc2bfXPB83LLL00I4l9n.jpg;7.3
+tt2948356;Zootopia;2016-02-11;109;150000000;1023784195;https://image.tmdb.org/t/p/original/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg;8
+tt2948372;Soul;2020-12-25;101;150000000;136384442;https://image.tmdb.org/t/p/original/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg;8.1
+tt2953050;Encanto;2021-11-24;102;50000000;253000000;https://image.tmdb.org/t/p/original/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg;7.2
+tt2974918;Alvin and the Chipmunks: The Road Chip;2015-12-17;92;90000000;233755553;https://image.tmdb.org/t/p/original/16OcuuW5z509WILR6BmscNdXgw0.jpg;5
+tt2980706;Planes: Fire & Rescue;2014-07-17;83;50000000;151165787;https://image.tmdb.org/t/p/original/pOmteFeBDI9FJOPTDvYJYFeAtdp.jpg;6
+tt2990140;The Christmas Chronicles;2018-11-22;104;0;0;https://image.tmdb.org/t/p/original/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg;7
+tt3014284;The Lego Ninjago Movie;2017-09-21;101;70000000;123081555;https://image.tmdb.org/t/p/original/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg;6
+tt3040964;The Jungle Book;2016-04-07;106;175000000;966550600;https://image.tmdb.org/t/p/original/tOEOlmLP71IojeJ91dyJ9Nsb8O8.jpg;7.4
+tt3120280;Sierra Burgess Is a Loser;2018-09-07;105;0;0;https://image.tmdb.org/t/p/original/vjnHRySiVM4YcBYzjCxw344y9g.jpg;5.8
+tt3148834;The House of Magic;2013-12-24;85;34000000;64197205;https://image.tmdb.org/t/p/original/3R13g2XgblynIrQGF8geFZJPNvR.jpg;6.2
+tt3152592;Scoob!;2020-07-08;93;90000000;28588425;https://image.tmdb.org/t/p/original/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg;5.6
+tt3202200;Bibi & Tina - Der Film;2014-03-06;100;0;0;https://image.tmdb.org/t/p/original/gPslMuE7uKH4yRDhhuw1rz6n9Bl.jpg;4.8
+tt3228774;Cruella;2021-05-26;134;200000000;233503234;https://image.tmdb.org/t/p/original/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg;7.3
+tt3256812;A Belle for Christmas;2014-11-04;91;0;0;https://image.tmdb.org/t/p/original/7U4FvyOxP70klq9t8LsS2fqVDdS.jpg;4.9
+tt3331846;STAND BY ME ドラえもん;2014-08-08;90;35000000;83061158;https://image.tmdb.org/t/p/original/wc7XQbfx6EIQqCuvmBMt3aisb2Y.jpg;7.3
+tt3332410;L'Apprenti Père Noël et le flocon magique;2013-11-20;82;10000000;78;https://image.tmdb.org/t/p/original/fV6pwW85sg40NDk7c72AgZt0t88.jpg;6.3
+tt3394878;Emil & Ida i Lönneberga;2013-12-25;60;0;0;https://image.tmdb.org/t/p/original/6PRyWDKsxH30aLgHVdmSbonpAzk.jpg;5.5
+tt3411444;Ferdinand;2017-12-09;108;111000000;295038508;https://image.tmdb.org/t/p/original/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg;6.7
+tt3447590;Roald Dahl's Matilda the Musical;2022-11-25;117;25000000;13276499;https://image.tmdb.org/t/p/original/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg;7.2
+tt3469046;Despicable Me 3;2017-06-15;96;80000000;1031552585;https://image.tmdb.org/t/p/original/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg;6.3
+tt3470600;Sing;2016-11-23;108;75000000;634151679;https://image.tmdb.org/t/p/original/zZTlF2eVVUkbdmccd3bNUU9T9sD.jpg;7.1
+tt3480822;Black Widow;2021-07-07;134;200000000;379751131;https://image.tmdb.org/t/p/original/kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg;6.7
+tt3513498;The Lego Movie 2: The Second Part;2019-01-26;106;100000000;190514361;https://image.tmdb.org/t/p/original/QTESAsBVZwjtGJNDP7utiGV37z.jpg;6.6
+tt3521164;Moana;2016-11-23;107;150000000;690860472;https://image.tmdb.org/t/p/original/4JeejGugONWpJkbnvL12hVoYEDa.jpg;7.6
+tt3526408;Gus - Petit oiseau, grand voyage;2014-10-17;90;0;0;https://image.tmdb.org/t/p/original/u30eUXxffS3Wpf4IfevkLYGTLVm.jpg;5.6
+tt3606752;Cars 3;2017-06-15;102;175000000;383925276;https://image.tmdb.org/t/p/original/fyy1nDC8wm553FCiBDojkJmKLCs.jpg;6.7
+tt3606756;Incredibles 2;2018-06-14;118;200000000;1242805359;https://image.tmdb.org/t/p/original/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg;7.6
+tt3700392;Heidi;2015-12-10;111;8800000;0;https://image.tmdb.org/t/p/original/kxnhHaPOvh0cqMOAx5k0NnqhDqS.jpg;7.5
+tt3746824;Волки и овцы: бе-е-е-зумное превращение;2016-04-28;85;0;4190750;https://image.tmdb.org/t/p/original/4R28oIV65bElWcXlavPV0kRbmSZ.jpg;5.8
+tt3748528;Rogue One: A Star Wars Story;2016-12-14;133;200000000;1056057273;https://image.tmdb.org/t/p/original/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg;7.8
+tt3759416;Astérix: Le domaine des dieux;2014-11-26;85;30000000;42830578;https://image.tmdb.org/t/p/original/oZYyisfvWY6N6KvC6cs9N6Anyht.jpg;6.9
+tt3783958;La La Land;2016-11-29;129;30000000;447407695;https://image.tmdb.org/t/p/original/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg;8
+tt3794354;Sonic the Hedgehog;2020-02-12;99;85000000;306766470;https://image.tmdb.org/t/p/original/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg;6.5
+tt3874544;The Boss Baby;2017-03-23;97;125000000;498814908;https://image.tmdb.org/t/p/original/unPB1iyEeTBcKiLg8W083rlViFH.jpg;6.3
+tt3915174;Puss in Boots: The Last Wish;2022-12-07;102;90000000;147801744;https://image.tmdb.org/t/p/original/lmf0zzR7ritjOL3qumRh3hfvOFK.jpg;7.7
+tt3977462;Full Out;2015-09-11;94;1500000;0;https://image.tmdb.org/t/p/original/e9c2JOwJlWUfIZRaxIWE2BZt5GV.jpg;6.4
+tt4008866;Bibi & Tina - Voll verhext!;2014-12-25;101;0;0;https://image.tmdb.org/t/p/original/lqjDGwx2khUFfvY1aDXaUGIgq1t.jpg;5.2
+tt4116284;The Lego Batman Movie;2017-02-08;104;80000000;311950384;https://image.tmdb.org/t/p/original/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg;7.3
+tt4154756;Avengers: Infinity War;2018-04-25;149;300000000;2046239637;https://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg;8.4
+tt4155534;Animal Crackers;2017-06-23;105;0;0;https://image.tmdb.org/t/p/original/dxFqZiO5MqqVoFZuWOjTdjmDh6d.jpg;5.8
+tt4426464;Arctic Dogs;2019-11-01;93;0;0;https://image.tmdb.org/t/p/original/5YHjyjd2N0ZXcnGuB8G1nIa6h9t.jpg;4.8
+tt4450396;My Little Pony: Equestria Girls: Friendship Games;2015-10-24;72;0;222840;https://image.tmdb.org/t/p/original/ih6vNDVWAeSYJYoQAk03Gykl1DJ.jpg;6.6
+tt4466894;Sahara;2017-02-01;86;0;7800000;https://image.tmdb.org/t/p/original/9p8SQYNazWavpMzhN0OIuZm0HgI.jpg;5.6
+tt4468740;Paddington 2;2017-11-09;104;40000000;227300000;https://image.tmdb.org/t/p/original/ns0BrPfPLoqToeafVv8FmjiUCG9.jpg;7.8
+tt4520988;Frozen II;2019-11-20;103;150000000;1450026933;https://image.tmdb.org/t/p/original/mINJaa34MtknCYl5AjtNJzWj8cD.jpg;6.8
+tt4566758;Mulan;2020-09-04;115;200000000;66800000;https://image.tmdb.org/t/p/original/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg;5.7
+tt4587656;The Star;2017-11-15;86;10000000;0;https://image.tmdb.org/t/p/original/tEbDvivUfsCupngKIfMJJ725eAD.jpg;6.3
+tt4624424;Storks;2016-09-22;87;70000000;182379278;https://image.tmdb.org/t/p/original/ylXKcKrEHSQEYLntBvYxGBI7Ld3.jpg;6.8
+tt4629266;Born in China;2016-08-12;76;0;0;https://image.tmdb.org/t/p/original/7oOHmp6SwuLmVEpdDInm14OmlzL.jpg;7.2
+tt4633694;Spider-Man: Into the Spider-Verse;2018-12-06;117;90000000;375540831;https://image.tmdb.org/t/p/original/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg;8.4
+tt4685554;Снежная королева 3. Огонь и лед;2016-12-29;80;0;0;https://image.tmdb.org/t/p/original/nZmUrl59UXIC1pXrviJMB3ERCnv.jpg;6
+tt4729430;Klaus;2019-11-08;96;0;0;https://image.tmdb.org/t/p/original/q125RHUDgR4gjwh1QkfYuJLYkL.jpg;8.2
+tt4731008;Robinson Crusoe;2016-02-04;90;13500000;40075446;https://image.tmdb.org/t/p/original/sQjlrj2oTnGxbc3yKbYeWlJrhdp.jpg;5.4
+tt4765284;Pitch Perfect 3;2017-12-20;93;45000000;184724494;https://image.tmdb.org/t/p/original/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg;5.8
+tt4777008;Maleficent: Mistress of Evil;2019-10-16;119;185000000;491730089;https://image.tmdb.org/t/p/original/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg;6.6
+tt4788934;小门神;2016-01-01;103;10000000;0;https://image.tmdb.org/t/p/original/A2Sl9BRnVG8LqYQqjvtRG1zZ2TP.jpg;5.5
+tt4823776;The SpongeBob Movie: Sponge on the Run;2020-08-14;95;60000000;4700000;https://image.tmdb.org/t/p/original/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg;5.9
+tt4877122;The Emoji Movie;2017-07-23;86;50000000;216909830;https://image.tmdb.org/t/p/original/f5pF4OYzh4wb1dYL2ARQNdqUsEZ.jpg;3.3
+tt4938374;Open Season: Scared Silly;2015-12-18;84;0;0;https://image.tmdb.org/t/p/original/tFD3HdVIXVbvVixIGhNmJBaqyAI.jpg;5
+tt4940416;Duck Duck Goose;2018-03-09;82;0;0;https://image.tmdb.org/t/p/original/7XURM64DYa9DpS70I2rM4suvq1s.jpg;5.8
+tt4972582;Split;2017-01-19;117;9000000;278454358;https://image.tmdb.org/t/p/original/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg;7.3
+tt4997398;Bibi & Tina - Mädchen gegen Jungs;2016-01-21;111;0;0;https://image.tmdb.org/t/p/original/fIsHT7278l4fueHUxKpIi6og6fi.jpg;5.3
+tt5028340;Mary Poppins Returns;2018-12-13;131;130000000;348807090;https://image.tmdb.org/t/p/original/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg;6.7
+tt5042436;Barbie: Spy Squad;2016-01-15;75;0;0;https://image.tmdb.org/t/p/original/uxdvJHE5V844dTlK2EmqRQCTYDb.jpg;5.7
+tt5095030;Ant-Man and the Wasp;2018-07-04;119;140000000;622674139;https://image.tmdb.org/t/p/original/2mnK5VtjzYRWvQB1zLhZWtAJwzk.jpg;7
+tt5096470;Love Wedding Repeat;2020-04-10;100;0;0;https://image.tmdb.org/t/p/original/u0MV99rB1hv8tkjtBJHfwIGCVKD.jpg;5.6
+tt5109280;Raya and the Last Dragon;2021-03-03;107;100000000;130000000;https://image.tmdb.org/t/p/original/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg;7.3
+tt5113040;The Secret Life of Pets 2;2019-05-24;86;80000000;155152550;https://image.tmdb.org/t/p/original/q3mKnSkzp1doIsCye6ap4KIUAbu.jpg;6.5
+tt5113044;Minions: The Rise of Gru;2022-06-29;87;85000000;216900000;https://image.tmdb.org/t/p/original/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg;7.2
+tt5117670;Peter Rabbit;2018-02-07;93;50000000;351266433;https://image.tmdb.org/t/p/original/2yjSvEDuM3rLDng40erLsWkQRfn.jpg;6.6
+tt5206260;The Willoughbys;2020-04-22;92;0;0;https://image.tmdb.org/t/p/original/9WrMmjdZvpxLQh1tCQ9tOd1asOb.jpg;6.4
+tt5220122;Hotel Transylvania 3: Summer Vacation;2018-06-28;97;80000000;528600000;https://image.tmdb.org/t/p/original/o7RY5zNHdH2heGS1hET2Rt6hZOe.jpg;6.3
+tt5274066;Raising the Bar;2017-03-09;93;600000;0;https://image.tmdb.org/t/p/original/4PmeOpZK9Qvnsuo02TqBO1wHecR.jpg;5.6
+tt5378092;Викрадена принцеса: Руслан і Людмила;2018-03-07;85;0;0;https://image.tmdb.org/t/p/original/4v6MoBcbCSI5Kw6AQVYLTJHfxrO.jpg;6
+tt5493944;The Little Mermaid;2018-08-02;98;0;0;https://image.tmdb.org/t/p/original/7Ax9O1wlFL0Cjl8YLwuXDGthovf.jpg;4.3
+tt5541002;Pachamama;2018-12-12;72;0;0;https://image.tmdb.org/t/p/original/gZrqG7icldmNYc4NgDwE3dd5tS7.jpg;6.8
+tt5562070;Wish Dragon;2021-01-15;99;0;25860000;https://image.tmdb.org/t/p/original/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg;7.2
+tt5616176;2 Hearts;2020-10-16;100;0;0;https://image.tmdb.org/t/p/original/a7bW3uKOMPBnmHs8gnlpfhTD8YQ.jpg;6.3
+tt5709188;A-X-L;2018-08-23;98;10000000;0;https://image.tmdb.org/t/p/original/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg;5.3
+tt5715410;The Son of Bigfoot;2017-07-26;92;30000000;46372519;https://image.tmdb.org/t/p/original/5yCQvhFuFPY0pACxoUpLUlYCxop.jpg;6.2
+tt5783956;When We First Met;2018-02-09;97;10000000;0;https://image.tmdb.org/t/p/original/u5VJ1XmPRUWNz9l0mP2rHmkUuvQ.jpg;6.4
+tt5790684;Mia and Me: The Hero of Centopia;2022-05-26;82;0;0;https://image.tmdb.org/t/p/original/qwlMyrQ84FwYtTTZ8iZinSYVghy.jpg;-1
+tt5814534;Spies in Disguise;2019-12-04;102;100000000;171616764;https://image.tmdb.org/t/p/original/30YacPAcxpNemhhwX0PVUl9pVA3.jpg;6.8
+tt5848272;Ralph Breaks the Internet;2018-11-20;112;175000000;529221154;https://image.tmdb.org/t/p/original/44cb3fCGKUaSxxIjI2ejrgeYfye.jpg;7
+tt5851786;Gnome Alone;2017-11-02;85;0;10800715;https://image.tmdb.org/t/p/original/jWB0zhk1Rj1tIWUM98Wsh15gkiW.jpg;5.6
+tt5851904;Le Grand Méchant Renard et autres contes...;2017-06-21;83;3000000;19030780;https://image.tmdb.org/t/p/original/3Nib5a3p2O7yPFSTTNwChp0cnsh.jpg;7.4
+tt5884052;Pokémon Detective Pikachu;2019-05-03;105;150000000;433005346;https://image.tmdb.org/t/p/original/wgQ7APnFpf1TuviKHXeEe3KnsTV.jpg;6.6
+tt6048930;Naked;2017-08-11;96;0;0;https://image.tmdb.org/t/p/original/qXRmYSB9C6SHdxTgY3wB72Riz9Y.jpg;5.4
+tt6095472;The Angry Birds Movie 2;2019-08-02;97;65000000;147792047;https://image.tmdb.org/t/p/original/ebe8hJRCwdflNQbUjRrfmqtUiNi.jpg;6.4
+tt6139732;Aladdin;2019-05-22;127;183000000;1047612394;https://image.tmdb.org/t/p/original/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg;6.9
+tt6182908;Smallfoot;2018-09-20;96;0;0;https://image.tmdb.org/t/p/original/zfaiO7QgpcvR8XDOMokWLRfKeTE.jpg;6.6
+tt6185658;Barbie Video Game Hero;2017-02-01;72;0;0;https://image.tmdb.org/t/p/original/rWQPf9Q8CAHIpBP8SVLE3uaSmf4.jpg;5.2
+tt6194538;Le Petit Spirou;2017-09-27;86;9850941;3503943;https://image.tmdb.org/t/p/original/pnofxR6iKomeHJIrKxWbeeBPaR.jpg;4.8
+tt6324278;Abominable;2019-09-19;97;75000000;180289970;https://image.tmdb.org/t/p/original/20djTLqppfBx5WYA67Y300S6aPD.jpg;7
+tt6338498;Vivo;2021-07-30;99;0;0;https://image.tmdb.org/t/p/original/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg;6.7
+tt6348138;Missing Link;2019-04-04;95;100000000;26249469;https://image.tmdb.org/t/p/original/gEkKHiiQRVUSX15Iwo8VFydXrtu.jpg;6.7
+tt6428676;Wonder Park;2019-03-13;86;100000000;119559110;https://image.tmdb.org/t/p/original/8KomINZhIuJeB4oB7k7tkq8tmE.jpg;5.8
+tt6467266;Sing 2;2021-12-01;110;85000000;406000000;https://image.tmdb.org/t/p/original/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg;7.4
+tt6563576;The Queen's Corgi;2019-02-13;85;0;35515687;https://image.tmdb.org/t/p/original/xcl4vYTqqzwn3ihUpjCQz0jqhV3.jpg;4.8
+tt6587640;Trolls World Tour;2020-03-11;90;0;47000000;https://image.tmdb.org/t/p/original/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg;6.1
+tt6595896;劇場版 ポケットモンスター　キミにきめた！;2017-07-15;98;0;37552144;https://image.tmdb.org/t/p/original/cmpOaiRtjnhLNF2iPslMXCOcVJ.jpg;6.3
+tt6673612;Dolittle;2020-01-02;101;175000000;251410631;https://image.tmdb.org/t/p/original/uoplwswBDy7gsOyrbGuKyPFoPCs.jpg;5.6
+tt6718170;The Super Mario Bros. Movie;2023-04-05;92;100000000;677959700;https://image.tmdb.org/t/p/original/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg;7.4
+tt6772524;Trouble;2019-08-08;88;0;12127842;https://image.tmdb.org/t/p/original/yfTXk9T3iNxuOcnA72AirzueLxL.jpg;5.8
+tt6791350;Guardians of the Galaxy Vol. 3;2023-05-03;150;250000000;845430302;https://image.tmdb.org/t/p/original/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg;7.9
+tt6911608;Mamma Mia! Here We Go Again;2018-07-09;113;75000000;395044706;https://image.tmdb.org/t/p/original/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg;6.6
+tt6913168;Le Flic de Belleville;2018-10-17;110;0;0;https://image.tmdb.org/t/p/original/6lY1GnJcZeZq3PXsoEwrF3izufJ.jpg;4.9
+tt6932874;The Boss Baby: Family Business;2021-07-01;107;82000000;146745280;https://image.tmdb.org/t/p/original/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg;5.9
+tt7063304;Bayala - Das magische Elfenabenteuer;2019-10-24;85;0;521149;https://image.tmdb.org/t/p/original/ouKUXkQSLyC4ADXbC8ft7vxiIJF.jpg;4.8
+tt7080422;Dragon Rider;2020-10-15;100;17830000;3175644;https://image.tmdb.org/t/p/original/ucDrOXUrVnr9X3ZmXP2Q68HDIHr.jpg;5.7
+tt7104578;Going for Gold;2018-03-08;89;0;0;https://image.tmdb.org/t/p/original/yz1HMJkAwodFITez3ogU4QyijKo.jpg;4.7
+tt7130740;Barbie: Dolphin Magic;2017-09-20;63;0;0;https://image.tmdb.org/t/p/original/c8Bb9MnvkNTKstQSKixO4dWaUhL.jpg;5.7
+tt7133686;Next Gen;2018-09-07;105;22000000;0;https://image.tmdb.org/t/p/original/hUDDo5MPWM6rc6COQYhaoRNqvhE.jpg;6.6
+tt7146812;Onward;2020-02-29;103;200000000;141592359;https://image.tmdb.org/t/p/original/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg;7.4
+tt7236034;君の膵臓をたべたい;2018-09-14;108;0;33748006;https://image.tmdb.org/t/p/original/vHdVU0HyyB6k6kuYt8qjwTz9one.jpg;8
+tt7286456;Joker;2019-10-01;122;55000000;1074251311;https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg;8.4
+tt7367960;Ternet Ninja;2018-12-25;81;0;0;https://image.tmdb.org/t/p/original/dzN5xbp73TI7pjEqZ66ECNxdWJl.jpg;7.2
+tt7405458;A Man Called Otto;2022-12-28;126;50000000;108961677;https://image.tmdb.org/t/p/original/130H1gap9lFfiTF9iDrqNIkFvC9.jpg;7.5
+tt7422638;48 Christmas Wishes;2017-12-01;84;0;0;https://image.tmdb.org/t/p/original/mrcA62O9j8y4gsSpftMKVcvrzCI.jpg;4
+tt7488208;Over the Moon;2020-10-16;100;0;0;https://image.tmdb.org/t/p/original/lQfdytwN7eh0tXWjIiMceFdBBvD.jpg;6.4
+tt7504818;Ron's Gone Wrong;2021-10-15;107;0;60000000;https://image.tmdb.org/t/p/original/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg;7.1
+tt7531096;StarDog and TurboCat;2019-12-06;88;2100000;585443;https://image.tmdb.org/t/p/original/aM0Ksnnuc7NtRibMUhXGmAYAMrx.jpg;5
+tt7608418;A Christmas Prince;2017-11-17;92;0;0;https://image.tmdb.org/t/p/original/x0IGQsMzVbsF7noj5cCfEk1GU7s.jpg;5.8
+tt7736496;Jingle Jangle: A Christmas Journey;2020-11-06;122;0;0;https://image.tmdb.org/t/p/original/5RbyHIVydD3Krmec1LlUV7rRjet.jpg;6.5
+tt7846844;Enola Holmes;2020-09-23;123;21000000;0;https://image.tmdb.org/t/p/original/riYInlsq2kf1AWoGm80JQW5dLKp.jpg;6.6
+tt7961060;ドラゴンボール超スーパー ブロリー;2018-12-14;101;1000000;125002821;https://image.tmdb.org/t/p/original/f03YksE4NggUjG75toz4H1YAGRf.jpg;7.8
+tt7979580;The Mitchells vs. the Machines;2021-04-22;114;0;0;https://image.tmdb.org/t/p/original/mI2Di7HmskQQ34kz0iau6J1vr70.jpg;7.7
+tt8001346;Astérix - Le Secret de la Potion Magique;2018-05-12;85;0;45631901;https://image.tmdb.org/t/p/original/wmMq5ypRNJbWpdhC9aPjpdx1MMp.jpg;6.7
+tt8079248;Yesterday;2019-06-27;116;26000000;88092097;https://image.tmdb.org/t/p/original/1rjaRIAqFPQNnMtqSMLtg0VEABi.jpg;6.8
+tt8097030;Turning Red;2022-03-10;100;190000000;18879922;https://image.tmdb.org/t/p/original/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg;7
+tt8108230;劇場版ポケットモンスター みんなの物語;2018-07-13;100;0;23740788;https://image.tmdb.org/t/p/original/eakBFzG1dZn0uouBgv6kYtPXLkT.jpg;6.3
+tt8115900;The Bad Guys;2022-03-17;100;80000000;250162278;https://image.tmdb.org/t/p/original/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg;6.8
+tt8201170;The Perfect Date;2019-04-12;93;0;0;https://image.tmdb.org/t/p/original/rrAYdezO3h1mjdYTaQyTXoj8IZ4.jpg;5.8
+tt8255452;Снежная Королева: Зазеркалье;2018-12-21;87;5125000;0;https://image.tmdb.org/t/p/original/8251dVxltnhqbt2DaO9bwJYmvAK.jpg;5.5
+tt8329148;Terra Willy, planète inconnue;2019-04-03;90;5100000;3123088;https://image.tmdb.org/t/p/original/vwqEIL5SrsZFVvileNe9LuHbJy7.jpg;6.6
+tt8337158;Rumble;2021-12-15;95;0;0;https://image.tmdb.org/t/p/original/fL7rh6Mzx87MbVl2aI4sYtxfhO5.jpg;5.9
+tt8354218;Fireheart;2022-01-16;92;0;0;https://image.tmdb.org/t/p/original/nmD0vZk8jQg1Suhs0iv9cj0xdtZ.jpg;6.2
+tt8456190;Seal Team;2021-10-28;98;0;0;https://image.tmdb.org/t/p/original/yPZ3I27oeSm4zVesgMxXlhW8GDe.jpg;5.6
+tt8521876;Yes Day;2021-03-12;86;0;0;https://image.tmdb.org/t/p/original/rejrD9ovTHJbfmpLM0mbEliEPV6.jpg;5.7
+tt8637498;The Monkey King;2023-08-11;92;0;0;https://image.tmdb.org/t/p/original/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg;-1
+tt8675288;Fearless;2020-08-14;89;0;0;https://image.tmdb.org/t/p/original/5oQJ6HeNGWnEtP9Qyt5IZjuKI7j.jpg;5
+tt8709036;A Christmas Prince: The Royal Wedding;2018-11-30;92;0;0;https://image.tmdb.org/t/p/original/2bLQTbFWrsunSVQsvOWZAAGACbf.jpg;5.3
+tt8746404;Marmaduke;2022-04-28;88;0;0;https://image.tmdb.org/t/p/original/bMUhBeMp0vLQzaPBX0izFdnFvh0.jpg;-1
+tt8856470;劇場版 ポケットモンスター ミュウツーの逆襲 EVOLUTION;2019-07-12;98;0;26654184;https://image.tmdb.org/t/p/original/xlO50h3EX1w99KGztTzsjQBwPfs.jpg;5.7
+tt8861786;Puppy Star Christmas;2018-11-20;90;0;0;https://image.tmdb.org/t/p/original/ztmVR4XlmAWtHFjDBWh2VyYcyuC.jpg;4
+tt8912936;DC League of Super-Pets;2022-07-27;105;90000000;109000000;https://image.tmdb.org/t/p/original/r7XifzvtezNt31ypvsmb6Oqxw49.jpg;7.8
+tt8925540;La course des tuques;2018-12-07;90;3000000;12000000;https://image.tmdb.org/t/p/original/iUlP6aUCyGh3aEEU0DmnFaJlAOg.jpg;5.5
+tt8946378;Knives Out;2019-11-27;131;40000000;309232797;https://image.tmdb.org/t/p/original/pThyQovXQrw2m0s9x82twj48Jq4.jpg;7.9
+tt8954732;The Princess Switch;2018-11-16;101;0;0;https://image.tmdb.org/t/p/original/A8XgZE8CsHiYN243MEd07GLCep.jpg;6.1
+tt9037650;Die Heinzels - Rückkehr der Heinzelmännchen;2019-10-08;78;0;623054;https://image.tmdb.org/t/p/original/9nLplPuTXceAwvGqedZRPTAaX4d.jpg;6
+tt9114286;Black Panther: Wakanda Forever;2022-11-09;162;250000000;859102154;https://image.tmdb.org/t/p/original/sv1xJUazXeYqALzczSZ3O6nkH75.jpg;6.7
+tt9204164;Bigfoot Family;2020-07-23;97;17520000;10855626;https://image.tmdb.org/t/p/original/vn7sNO6CD8FBHBEVcOiNv08mjy1.jpg;5.8
+tt9288046;The Sea Beast;2022-06-24;115;0;0;https://image.tmdb.org/t/p/original/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg;7.1
+tt9288748;My Father's Dragon;2022-11-04;104;0;0;https://image.tmdb.org/t/p/original/6hgEe1w0An5fKi3ZqIUBwOyIN2y.jpg;6.6
+tt9362722;Spider-Man: Across the Spider-Verse;2023-05-31;140;100000000;642674077;https://image.tmdb.org/t/p/original/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg;8.9
+tt9376612;Shang-Chi and the Legend of the Ten Rings;2021-09-01;132;150000000;432243292;https://image.tmdb.org/t/p/original/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg;7.4
+tt9760504;二ノ国;2019-08-23;106;0;0;https://image.tmdb.org/t/p/original/ud6YOdHjRFFJInlpwpPRr9bFOFH.jpg;6.1
+tt9784456;The Kissing Booth 2;2020-07-24;132;0;0;https://image.tmdb.org/t/p/original/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg;5.7
+tt9784518;SamSam;2020-02-05;77;0;0;https://image.tmdb.org/t/p/original/nNMAglUfOuDuyAKYSmXzFkBeNha.jpg;5
+tt9784708;Rise of the Teenage Mutant Ninja Turtles: The Movie;2022-08-05;86;0;0;https://image.tmdb.org/t/p/original/4PASAPJSoUsY6I69gaED4k642Gb.jpg;5.8
+tt9810420;A Second Chance: Rivals!;2019-09-21;89;0;0;https://image.tmdb.org/t/p/original/egTUn0oodsHa6gC9XXux40eSAhQ.jpg;4.7
+tt9848626;Hotel Transylvania: Transformania;2022-02-25;87;0;0;https://image.tmdb.org/t/p/original/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg;6.1
