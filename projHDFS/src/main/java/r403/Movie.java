@@ -23,8 +23,8 @@ public class Movie {
         return Double.parseDouble(fields[7].replace("\"", ""));
     }
 
-    public static int getRuntime() {
-        return Integer.parseInt(fields[3]);
+    public static Integer getRuntime() throws NumberFormatException {
+        return Integer.valueOf(fields[3]);
     }
 
     public static Date getRelease() throws ParseException {
