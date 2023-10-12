@@ -21,7 +21,6 @@ public class Q11 {
         LocalFileSystem fs = FileSystem.getLocal(conf);
         Path pathMovie = new Path(Assets.MOVIES.path);
         Path pathProd = new Path(Assets.PRODUCTION.path);
-        int lineNum = 0;
         FSDataInputStream inStreamMovie = fs.open(pathMovie);
         FSDataInputStream inStreamProd = fs.open(pathProd);
         try {
@@ -31,6 +30,7 @@ public class Q11 {
             String lineProd = brProd.readLine();
             // Get the table in a map
             Map<String, Integer> prodMovie2Studio = new HashMap<String, Integer>();
+            int lineNum = 0;
             while (lineProd != null) {
                 if (lineNum != 0) {
                     Production.fromLine(lineProd);
@@ -45,6 +45,7 @@ public class Q11 {
             BufferedReader brMovie = new BufferedReader(isrMovie);
             String lineMovie = brMovie.readLine();
             // Algorithm
+            lineNum = 0;
             while (lineMovie != null) {
                 if (lineNum != 0) {
                     Movie.fromLine(lineMovie);
