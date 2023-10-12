@@ -3,6 +3,8 @@ package r403;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.List;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FSDataInputStream;
@@ -24,10 +26,15 @@ public class Q4 {
             InputStreamReader isr = new InputStreamReader(inStream);
             BufferedReader br = new BufferedReader(isr);
             String line = br.readLine();
+            List<Double> ratings = new ArrayList<Double>();
             while (line != null) {
                 if (lineNum != 0) {
                     Movie.fromLine(line);
-                    System.out.println(Movie.getRating());
+                    double rating = Movie.getRating();
+                    if (!ratings.contains(rating)) {
+                        ratings.add(rating);
+                        System.out.println(rating);
+                    }
                 }
                 line = br.readLine();
                 lineNum++;
