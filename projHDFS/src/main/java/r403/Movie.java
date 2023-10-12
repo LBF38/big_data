@@ -15,8 +15,8 @@ public class Movie {
         return fields[1];
     }
 
-    public static int getId() throws NumberFormatException {
-        return Integer.parseInt(fields[0]);
+    public static String getId() {
+        return fields[0];
     }
 
     public static double getRating() throws NumberFormatException {
