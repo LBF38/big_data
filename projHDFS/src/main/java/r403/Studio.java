@@ -19,4 +19,8 @@ public class Studio {
         return Double.parseDouble(fields[99]);
     }
 
+    public static String getCountry() {
+        return fields[2];
+    }
+
 }
