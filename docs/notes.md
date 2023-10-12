@@ -15,3 +15,7 @@ TP on Hadoop to manipulate big data and to discover/explore the concepts.
 ... => can continue manipulate the filesystem using `hdfs dfs` commands
 
 ![An example of CLI](image.png)
+
+## Activity 4.2 - HDFS API
+
+- Creating a Maven project and using Java for the HDFS API
