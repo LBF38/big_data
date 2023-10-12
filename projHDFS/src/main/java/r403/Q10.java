@@ -29,22 +29,23 @@ public class Q10 {
             InputStreamReader isr = new InputStreamReader(inStream);
             BufferedReader br = new BufferedReader(isr);
             String line = br.readLine();
-            // TODO: simplify the HashMap to contain the year and not the full release date.
-            Map<Date, Integer> moviesPerYear = new HashMap<Date, Integer>();
+            SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy");
+            Map<String, Integer> moviesPerYear = new HashMap<String, Integer>();
             while (line != null) {
                 if (lineNum != 0) {
                     Movie.fromLine(line);
                     Date releaseDate = Movie.getRelease();
-                    if (moviesPerYear.containsKey(releaseDate)) {
-                        moviesPerYear.put(releaseDate, moviesPerYear.get(releaseDate) + 1);
+                    String releaseYear = dateFormat.format(releaseDate);
+                    if (moviesPerYear.containsKey(releaseYear)) {
+                        moviesPerYear.put(releaseYear, moviesPerYear.get(releaseYear) + 1);
                     } else {
-                        moviesPerYear.put(releaseDate, 1);
+                        moviesPerYear.put(releaseYear, 1);
                     }
                 }
                 line = br.readLine();
                 lineNum++;
             }
-            moviesPerYear.forEach((k, v) -> System.out.println(new SimpleDateFormat("yyyy").format(k) + ": " + v));
+            moviesPerYear.forEach((k, v) -> System.out.println(k + ": " + v));
         } catch (Exception e) {
             System.out.println(e);
         } finally {
