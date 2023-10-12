@@ -13,7 +13,7 @@ public class DisplayFolder {
         // FileSystem fs = FileSystem.get(URI.create("hdfs://localhost:9000"),conf);
         // Local FS
         LocalFileSystem fs = FileSystem.getLocal(conf);
-        FileStatus[] fileStatus = fs.listStatus(new Path("C:\\tmp\\production.csv"));
+        FileStatus[] fileStatus = fs.listStatus(new Path("C:\\tmp\\production.csv")); // change to a folder path
         for (FileStatus status : fileStatus) {
             Path fullname = new Path(status.getPath().toString());
             System.out.println("Path: " + fullname);
