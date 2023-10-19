@@ -18,6 +18,7 @@ movies = raw.map(lambda ligne: Movie(ligne))
 
 
 # Year w/ max movies
-moviesPerYear = movies.filter(lambda movie: movie.release() is not None).map(lambda movie: (movie.release().year, 1)).reduceByKey(lambda a, b: a + b)
-print("Year w/ max movies: ", moviesPerYear.max())
+moviesPerYear = movies.filter(lambda movie: movie.release() is not None).map(lambda movie: (movie.release().year, 1)).countByKey()
+maxYear = max(moviesPerYear, key=moviesPerYear.get)
+print("Year w/ max movies: ", maxYear)
 
