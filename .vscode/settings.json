@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "project",
-        "HDFS API"
+        "HDFS API",
+        "Spark"
     ]
 }
