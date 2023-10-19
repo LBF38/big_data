@@ -3,5 +3,8 @@
         "project",
         "HDFS API",
         "Spark"
-    ]
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
 }
